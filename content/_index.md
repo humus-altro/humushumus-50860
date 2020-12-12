@@ -21,12 +21,12 @@ sections:
       #### Risposta breve a un’identità complessa: COS'È’ HUMUS?
 
 
-      ### “Humus” è il network delle persone che si sentono rappresentate da
+      #### “Humus” è il network delle persone che si sentono rappresentate da
       questo nome. 
 
-      ### “Humus” è nell’assemblea dei soci dell’”Associazione Pacha Mama”.
+      #### “Humus” è nell’assemblea dei soci dell’”Associazione Pacha Mama”.
 
-      ### Germoglio da “Humus” nasce grazie all’impegno dei volontari
+      #### Germoglio da “Humus” nasce grazie all’impegno dei volontari
       disponibili a ciclo trimestrale.
 
 
