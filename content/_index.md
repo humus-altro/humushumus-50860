@@ -11,23 +11,23 @@ sections:
     type: section_content
     content: >
 
-      Regolamento Radice è la presentazione pubblica delle finalità del progetto
-      <span style="color:blue">"Humus"</span>, nato nel 2019 da un’idea
+      ### Regolamento Radice è la presentazione pubblica delle finalità del
+      progetto <span style="color:blue">"Humus"</span>, nato nel 2019 da un’idea
       dell’”Associazione di Volontariato Pacha Mama ONLUS”.
 
       ***
 
 
-      Risposta breve a un’identità complessa: COS'È’ HUMUS?
+      ### Risposta breve a un’identità complessa: COS'È’ HUMUS?
 
 
-      “Humus” è il network delle persone che si sentono rappresentate da questo
-      nome. 
+      ### “Humus” è il network delle persone che si sentono rappresentate da
+      questo nome. 
 
-      “Humus” è nell’assemblea dei soci dell’”Associazione Pacha Mama”.
+      ### “Humus” è nell’assemblea dei soci dell’”Associazione Pacha Mama”.
 
-      Germoglio da “Humus” nasce grazie all’impegno dei volontari disponibili a
-      ciclo trimestrale. 
+      ### Germoglio da “Humus” nasce grazie all’impegno dei volontari
+      disponibili a ciclo trimestrale. 
 
 
       Sì ma: COSA FA HUMUS?
@@ -45,6 +45,11 @@ sections:
 
       (hai presente “Humus Altro Natale [#2
       altrofestival](https://google.com)”?)
+
+
+      Leggi le parti rosse, trova facilmente la parte che ti interessa
+
+      Un progetto col cognome: HUMUS_ALTRO
   - title: Recent Posts
     section_id: posts
     type: section_posts
