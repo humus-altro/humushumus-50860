@@ -61,7 +61,7 @@ sections:
       Un progetto col cognome: HUMUS_ALTRO
 
 
-      <body bgcolor="green">
+      <body bgcolor="purple">
   - title: Recent Posts
     section_id: posts
     type: section_posts
