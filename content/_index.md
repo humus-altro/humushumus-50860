@@ -23,11 +23,11 @@ sections:
 
       “Humus” è nell’assemblea dei soci dell’”Associazione Pacha Mama”.
 
-      Germoglio da “Humus” nasce grazie all’impegno dei volontari
-      <mark>disponibili a ciclo trimestrale. 
+      Germoglio da “Humus” nasce grazie all’impegno dei volontari disponibili a
+      ciclo trimestrale. 
 
 
-      Sì ma: COSA FA HUMUS?
+      >Sì ma: COSA FA HUMUS?
 
 
       Gioca a sperimentare i linguaggi della cultura. Avvicina le persone alla
