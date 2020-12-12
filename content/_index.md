@@ -221,6 +221,7 @@ sections:
 
       #### Il progetto rientra delle sue spese principalmente attraverso le
       quote associative.
+
        #### Anche attraverso i finanziamenti pubblici e quelli privati, Humus trova sostegno per le sue iniziative. Costruire costa e non tutto può essere pagato attraverso il lavoro volontario o lo scambio. 
       #### Se i materiali di recupero, il lavoro volontario, i doni sono risorse
       che non prevedono voci di spesa, i prodotti etici e sostenibili, il lavoro
