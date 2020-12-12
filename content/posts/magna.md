@@ -3,7 +3,6 @@ title: Magna etiam sed lorem ipsum dolor amet
 subtitle: A cautionary tale about Magna etiam
 excerpt: ''
 date: '2016-09-04'
-thumb_img_path: images/art.svg
 layout: post
 ---
 
