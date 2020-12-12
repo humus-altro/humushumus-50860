@@ -9,7 +9,7 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >+
+    content: >
 
       #### Regolamento Radice è la presentazione pubblica delle finalità del
       progetto <span style="color:blue">"Humus"</span>, nato nel 2019 da un’idea
@@ -84,5 +84,17 @@ sections:
 
       ## UN INDIVIDUO = UN  SOCIO
 
+      Qualsiasi nuovo “Altro” <span style="color:blue">individuo</span> può
+      scegliere di associarsi passando <span style="color:blue">ad</span>
+      “Humus”.
+
+      Partecipa alle iniziative chi diventa socio dell’”Associazione Pacha Mama”
+      e sottoscrive una tessera valida da settembre all’agosto seguente. La
+      tessera ha un costo.
+
+      Presentando la tessera valida col proprio nome si viene riconosciuti soci.
+
+      Nessuna iniziativa prevede il pagamento di un ticket, ma tutte le
+      iniziative sono solo per chi si associa.
 layout: advanced
 ---
