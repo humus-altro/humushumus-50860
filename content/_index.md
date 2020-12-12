@@ -10,11 +10,9 @@ sections:
     section_id: intro
     type: section_content
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
+      Regolamento Radice è la presentazione pubblica delle finalità del progetto
+      “Humus”, nato nel 2019 da un’idea dell’”Associazione di Volontariato Pacha
+      Mama ONLUS”.
 
       ### This is an H3. Use it for subheads and subsections.
 
