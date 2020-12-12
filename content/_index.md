@@ -9,7 +9,7 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >+
+    content: >-
 
       #### Regolamento Radice è la presentazione pubblica delle finalità del
       progetto <span style="color:blue">"Humus"</span>, nato nel 2019 da un’idea
@@ -60,6 +60,8 @@ sections:
 
       Un progetto col cognome: HUMUS_ALTRO
 
+
+      <body bgcolor="green">
   - title: Recent Posts
     section_id: posts
     type: section_posts
