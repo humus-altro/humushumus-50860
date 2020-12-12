@@ -3,7 +3,7 @@ baseURL: /
 params:
   description: A vanilla theme for Stackbit
   header:
-    title: Stackbit Vanilla
+    title: ''
     has_nav: false
     nav_links:
       - label: Home
