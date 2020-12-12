@@ -192,7 +192,7 @@ sections:
       che decidono di donare la propria disponibilità di volontari al progetto,
       almeno fino al trimestre successivo.
 
-      #### ***Seguendo questo metodo, l’Associazione rimane contestualmente
+      ### ***Seguendo questo metodo, l’Associazione rimane contestualmente
       fluida e solida, perché rinnova ciclicamente nell’incontro con i cittadini
       le premesse di una presenza radicata e sentita ma anche germogliata e
       viva.***
