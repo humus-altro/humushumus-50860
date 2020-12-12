@@ -43,18 +43,22 @@ sections:
       ***
 
 
-      #### Gioca a sperimentare i linguaggi della cultura. Avvicina le persone
-      alla consapevolezza della loro natura: quella solidale. 
+      #### Gioca a <span style="color:blue">sperimantare</span>i <span
+      style="color:blue">linguaggi</span> della <span
+      style="color:blue">cultura</span>. Avvicina le persone alla consapevolezza
+      della loro <span style="color:blue">natura</span>: quella <span
+      style="color:blue">solidale</span>. 
 
       #### Vicini in un’esperienza originale non possiamo piú negare di avere
       qualcosa in comune.
 
       #### ED È PER QUESTO CHE “Humus” C’È
 
-      #### nelle iniziative che hanno il prefisso “altro-” 
+      #### nelle <span style="color:blue">iniziative</span> che hanno il
+      prefisso “altro-” 
 
-      #### (hai presente “Humus Altro Natale [#2
-      altrofestival](https://google.com)”?)
+      #### (hai presente " <span style="color:blue">Humus Altro Natale [#2
+      altrofestival](https://google.com)</span>”?)
 
       ***
 
