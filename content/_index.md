@@ -20,7 +20,7 @@ sections:
 
       Risposta breve a un’identità complessa: COS'È’ HUMUS?
 
-      *** *** *** *** *** *** ***
+      ***
 
       “Humus” è il network delle persone che si sentono rappresentate da questo
       nome. 
