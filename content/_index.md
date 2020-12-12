@@ -20,6 +20,8 @@ sections:
 
       #### Risposta breve a un’identità complessa: COS'È’ HUMUS?
 
+      ***
+
 
       #### “Humus” è il network delle persone che si sentono rappresentate da
       questo nome. 
@@ -29,8 +31,12 @@ sections:
       #### Germoglio da “Humus” nasce grazie all’impegno dei volontari
       disponibili a ciclo trimestrale.
 
+      ***
+
 
       #### Sì ma: COSA FA HUMUS?
+
+      ***
 
 
       #### Gioca a sperimentare i linguaggi della cultura. Avvicina le persone
@@ -46,8 +52,10 @@ sections:
       #### (hai presente “Humus Altro Natale [#2
       altrofestival](https://google.com)”?)
 
+      ***
 
-      <span style="color:blue">Leggi le parti rosse, trova facilmente la parte
+
+      <span style="color:red">Leggi le parti rosse, trova facilmente la parte
       che ti interessa</span>
 
       Un progetto col cognome: HUMUS_ALTRO
