@@ -27,7 +27,7 @@ sections:
       ciclo trimestrale. 
 
 
-      >Sì ma: COSA FA HUMUS?
+      Sì ma: COSA FA HUMUS?
 
 
       Gioca a sperimentare i linguaggi della cultura. Avvicina le persone alla
