@@ -1,6 +1,11 @@
 ---
 title: Home
 sections:
+  - section_id: hero
+    type: section_hero
+    title: REGOLAMENTO RADICE DI HUMUS
+    subtitle: '### Scendi in profondità con gli ipertesti'
+    image: images/avatar.png
   - title: Text
     section_id: intro
     type: section_content
@@ -60,11 +65,6 @@ sections:
     type: section_posts
     has_more_link: true
     more_link_text: ''
-  - section_id: hero
-    type: section_hero
-    title: REGOLAMENTO RADICE DI HUMUS
-    subtitle: '### Scendi in profondità con gli ipertesti'
-    image: images/avatar.png
   - title: A Cat
     section_id: cat
     type: section_content
