@@ -195,6 +195,6 @@ sections:
       #### **Seguendo questo metodo, l’Associazione rimane contestualmente
       fluida e solida, perché rinnova ciclicamente nell’incontro con i cittadini
       le premesse di una presenza radicata e sentita ma anche germogliata e
-      viva.**
+      viva.
 layout: advanced
 ---
