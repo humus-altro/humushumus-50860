@@ -57,8 +57,8 @@ sections:
       #### nelle <span style="color:blue">iniziative</span> che hanno il
       prefisso “altro-” 
 
-      #### (hai presente " <span style="color:blue">Humus Altro Natale [#2
-      altrofestival](https://google.com)</span>”?)
+      #### (hai presente " <span style="color:blue">Humus Altro Natale
+      </span>[#2 altrofestival](https://google.com)”?)
 
       ***
 
