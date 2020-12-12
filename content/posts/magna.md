@@ -1,5 +1,5 @@
 ---
-title: Magna etiam sed lorem ipsum dolor amet
+title: ''
 subtitle: A cautionary tale about Magna etiam
 excerpt: ''
 date: '2016-09-04'
