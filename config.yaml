@@ -16,11 +16,8 @@ params:
         url: /ipsum/
   footer:
     content: '&copy; All rights reserved.'
-    links:
-      - label: Made with Stackbit
-        url: 'https://www.stackbit.com'
-        new_window: true
-    has_social: false
+    links: []
+    has_social: true
     social_links:
       - label: Twitter
         url: 'https://twitter.com/'
