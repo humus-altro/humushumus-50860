@@ -66,7 +66,13 @@ sections:
       ###### <span style="color:red">Leggi le parti rosse, trova facilmente la
       parte che ti interessa</span>
 
-      #### Un progetto col cognome: HUMUS_ALTRO
+      ### Un progetto col cognome: HUMUS_ALTRO
+
+
+      #### Al di sopra del nome c’è la famiglia, che per “Humus” è “<span
+      style="color:blue">Altro</span>”: l’Altro con la maiuscola nel rispetto di
+      chiunque Altro.
+
 
 layout: advanced
 ---
