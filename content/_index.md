@@ -9,7 +9,7 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >-
+    content: >
       Regolamento Radice è la presentazione pubblica delle finalità del progetto
       “Humus”, nato nel 2019 da un’idea dell’”Associazione di Volontariato Pacha
       Mama ONLUS”.
@@ -26,19 +26,21 @@ sections:
       Germoglio da “Humus” nasce grazie all’impegno dei volontari disponibili a
       ciclo trimestrale. 
 
-      ### This is an H3. Use it for subheads and subsections.
 
-      Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
-      dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
-      inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl
-      elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea
-      dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec,
-      condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia
-      aliquam velit. Mauris ut purus in nisl suscipit feugiat.
+      Sì ma: COSA FA HUMUS?
 
-      Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
-      Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
-      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
+
+      Gioca a sperimentare i linguaggi della cultura. Avvicina le persone alla
+      consapevolezza della loro natura: quella solidale. 
+
+      Vicini in un’esperienza originale non possiamo piú negare di avere
+      qualcosa in comune.
+
+      ED È PER QUESTO CHE “Humus” C’È
+
+      nelle iniziative che hanno il prefisso “altro-” 
+
+      (hai presente “Humus Altro Natale #2 altrofestival”?)
   - title: Recent Posts
     section_id: posts
     type: section_posts
