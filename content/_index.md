@@ -22,8 +22,6 @@ sections:
 
       #### Risposta breve a un’identità complessa: COS'È’ HUMUS?
 
-      ***
-
 
       #### “Humus” è il <span style="color:blue">network delle persone</span>
       che si sentono <span style="color:blue">rappresentate</span> da questo
@@ -40,8 +38,6 @@ sections:
 
 
       #### Sì ma: COSA FA HUMUS?
-
-      ***
 
 
       #### Gioca a <span style="color:blue">sperimantare</span>i <span
