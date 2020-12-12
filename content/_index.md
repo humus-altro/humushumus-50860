@@ -17,6 +17,15 @@ sections:
 
       Risposta breve a un’identità complessa: COS'È’ HUMUS?
 
+
+      “Humus” è il network delle persone che si sentono rappresentate da questo
+      nome. 
+
+      “Humus” è nell’assemblea dei soci dell’”Associazione Pacha Mama”.
+
+      Germoglio da “Humus” nasce grazie all’impegno dei volontari disponibili a
+      ciclo trimestrale. 
+
       ### This is an H3. Use it for subheads and subsections.
 
       Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
