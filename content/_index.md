@@ -44,6 +44,10 @@ sections:
       nelle iniziative che hanno il prefisso “altro-” 
 
       (hai presente “Humus Altro Natale #2 altrofestival”?)
+
+
+
+      Some Markdown text with <span style="color:blue">some *blue* text</span>.
   - title: Recent Posts
     section_id: posts
     type: section_posts
