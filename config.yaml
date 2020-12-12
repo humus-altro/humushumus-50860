@@ -20,7 +20,7 @@ params:
       - label: Made with Stackbit
         url: 'https://www.stackbit.com'
         new_window: true
-    has_social: true
+    has_social: false
     social_links:
       - label: Twitter
         url: 'https://twitter.com/'
