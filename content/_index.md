@@ -24,13 +24,16 @@ sections:
       ***
 
 
-      #### “Humus” è il network delle persone che si sentono rappresentate da
-      questo nome. 
+      #### “Humus” è il <span style="color:blue">network delle persone</span>
+      che si sentono <span style="color:blue">rappresentate</span> da questo
+      nome. 
 
-      #### “Humus” è nell’assemblea dei soci dell’”Associazione Pacha Mama”.
+      #### “Humus” è nell’assemblea dei <span style="color:blue">soci</span>
+      dell’”Associazione Pacha Mama”.
 
-      #### Germoglio da “Humus” nasce grazie all’impegno dei volontari
-      disponibili a ciclo trimestrale.
+      #### <span style="color:blue">Germoglio</span> da “Humus” nasce grazie
+      all’ <span style="color:blue">impegno dei volontari</span> disponibili a
+      ciclo trimestrale.
 
       ***
 
