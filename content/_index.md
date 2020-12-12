@@ -43,7 +43,8 @@ sections:
 
       nelle iniziative che hanno il prefisso “altro-” 
 
-      (hai presente “Humus Altro Natale [#2 altrofestival]()”?)
+      (hai presente “Humus Altro Natale [#2
+      altrofestival](https://google.com)”?)
   - title: Recent Posts
     section_id: posts
     type: section_posts
