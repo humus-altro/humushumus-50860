@@ -9,7 +9,7 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >
+    content: >-
 
       #### Regolamento Radice è la presentazione pubblica delle finalità del
       progetto <span style="color:blue">"Humus"</span>, nato nel 2019 da un’idea
@@ -196,5 +196,87 @@ sections:
       fluida e solida, perché rinnova ciclicamente nell’incontro con i cittadini
       le premesse di una presenza radicata e sentita ma anche germogliata e
       viva.***
+
+      ***
+
+
+      ###### <span style="color:red">Per le persone che possono donare
+      sensibilità e capacità al progetto. Per chi ha urgenza di esprimersi. Per
+      chi ha una ragione sociale o una causa da condividere. Per entrare in rete
+      alla pari.</span>
+
+      ### PARTNER SOLIDALI 
+
+      #### Humus vive in una realtà complessa e ricca di soggetti “altri” con
+      cui dialogare, lavorare e camminare verso un orizzonte comune, mantenendo
+      una propria unicità.
+
+      #### Sono chiamati partner solidali, collettivi o i singoli, che
+      riconoscono in Humus lo spazio dove potersi esprimere e che collaborano
+      alle iniziative di Humus e le arricchiscono della loro esperienza.
+
+      ***
+
+
+      ###### <span style="color:red">Per le collaborazioni che abbiamo
+      instaurato sulla base di leggi di mercato. Per le parti della proposta che
+      richiedono rimborsi, acquisti o stipendi. Per comprendere meglio le scelte
+      delle spese di bilancio.</span>
+
+      ### PARTNER ECONOMICI
+
+      #### Il progetto rientra delle sue spese principalmente attraverso le
+      quote associative.
+       #### Anche attraverso i finanziamenti pubblici e quelli privati, Humus trova sostegno per le sue iniziative. Costruire costa e non tutto può essere pagato attraverso il lavoro volontario o lo scambio. 
+      #### Se i materiali di recupero, il lavoro volontario, i doni sono risorse
+      che non prevedono voci di spesa, i prodotti etici e sostenibili, il lavoro
+      di tecnici specializzati, le autorizzazioni, le assicurazioni, le
+      certificazioni, il noleggio di strumentazioni necessarie, e più in
+      generale tutti quei servizi e prodotti che non si riescono a procurare in
+      maniera diversa se non acquistandoli sul mercato, diventano voci di spesa.
+
+      #### Gli artisti e i professionisti nel campo sociale o della cultura
+      arricchiscono il terreno che Humus abita e coltiva; per questo su di loro
+      l’associazione investe un valore economico espresso chiaramente nel
+      bilancio trimestrale.
+
+      ***
+
+
+      ###### <span style="color:red">Per i pragmatici</span>
+
+      ### MISSIONE
+
+      #### Il germoglio è la missione.
+
+      #### In pratica “Humus” organizza iniziative in modo sostenibile. Dal
+      rispetto dell’ambiente a quello per il lavoro umano, le strategie e
+      pratiche di cui si avvale sono per il cittadino un punto di riferimento
+      concreto e fattibile: usa prodotti della filiera del commercio equo o di
+      quella locale; lascia esprimere artisti del <mark>territorio</mark> e non
+      giudica i linguaggi dell’arte o della cultura attuale; lotta insieme ad
+      altri perseguendo le stesse cause sociali verso la riduzione delle
+      diseguaglianze e il miglioramento della qualità di vita delle singole
+      persone; comunica messaggi positivi argomentando dettagliatamente con
+      parole e fatti le alte possibilità di perseguire obiettivi comuni grazie
+      alla partecipazione cosciente della cittadinanza alla vita pubblica.
+
+      #### Se uno ad un evento “Humus” trova una parte di tutto questo, il
+      progetto si è avvicinato alla sua missione sul campo.
+
+      ***
+
+
+      ###### <span style="color:red">Per i sognatori</span>
+
+      ### VISIONE
+
+      #### Le radici sono la visione.
+
+      #### <mark>Se uno vede in “Humus” che è possibile un posto in cui le
+      scelte sono prese con consapevolezza delle profonde implicazioni con il
+      resto dell’ambiente, allora magari è più facile che trovi fiducia per
+      immaginare una società globale che cerca un equilibrio nelle radici che la
+      natura dell’uomo ha intrecciato su quella del pianeta.  </mark>
 layout: advanced
 ---
