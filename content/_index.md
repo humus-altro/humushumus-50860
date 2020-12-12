@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: ciao
+  - section_id: hero
     type: section_hero
     title: REGOLAMENTO RADICE DI HUMUS
     subtitle: '### Scendi in profondità con gli ipertesti'
