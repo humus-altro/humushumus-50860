@@ -55,7 +55,7 @@ sections:
       ***
 
 
-      ######<span style="color:red">Leggi le parti rosse, trova facilmente la
+      ###### <span style="color:red">Leggi le parti rosse, trova facilmente la
       parte che ti interessa</span>
 
       #### Un progetto col cognome: HUMUS_ALTRO
