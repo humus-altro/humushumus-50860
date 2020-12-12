@@ -68,11 +68,21 @@ sections:
 
       ### Un progetto col cognome: HUMUS_ALTRO
 
+      ***
+
 
       #### Al di sopra del nome c’è la famiglia, che per “Humus” è “<span
       style="color:blue">Altro</span>”: l’Altro con la maiuscola nel rispetto di
       chiunque Altro.
 
+      ***
+
+
+      ###### <span style="color:red">Per chi vuole venire alle iniziative. Per
+      chi fatica ad accettare i tesseramenti. Per chi ha dubbi a prendere
+      parte.</span>
+
+      ## UN INDIVIDUO = UN  SOCIO
 
 layout: advanced
 ---
