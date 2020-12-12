@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: REGOLAMENTO RADICE DI HUMUS
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: '### Scendi in profondità con gli ipertesti'
     image: images/avatar.png
   - title: Text
     section_id: intro
