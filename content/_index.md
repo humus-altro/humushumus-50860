@@ -283,6 +283,5 @@ sections:
       resto dell’ambiente, allora magari è più facile che trovi fiducia per
       immaginare una società globale che cerca un equilibrio nelle radici che la
       natura dell’uomo ha intrecciato su quella del pianeta.  </mark>
-    image: images/humus terra e cielo_verticale_Tavola disegno 1.png
 layout: advanced
 ---
