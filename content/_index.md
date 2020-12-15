@@ -120,9 +120,9 @@ sections:
 
       ### UN INDIVIDUO = UN  SOCIO
 
-      #### Qualsiasi nuovo “Altro” <span style="color:blue">individuo</span> può
-      scegliere di associarsi passando <span style="color:blue">ad</span>
-      “Humus”.
+      #### <span id="dots"></span><span id="more">Qualsiasi nuovo “Altro” <span
+      style="color:blue">individuo</span> può scegliere di associarsi passando
+      <span style="color:blue">ad</span> “Humus”.
 
       #### Partecipa alle iniziative chi diventa socio dell’”Associazione Pacha
       Mama” e sottoscrive una tessera valida da settembre all’agosto seguente.
@@ -132,7 +132,8 @@ sections:
       soci.
 
       #### Nessuna iniziativa prevede il pagamento di un ticket, ma tutte le
-      iniziative sono solo per chi si associa.
+      iniziative sono solo per chi si associa.</span></p><button
+      onclick="myFunction()" id="myBtn">_ALTRO</button>.
 
       ***
 
