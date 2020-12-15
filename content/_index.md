@@ -102,11 +102,10 @@ sections:
 
       ## Un progetto col cognome: HUMUS_ALTRO
 
-      #### <span id="dots"></span><span id="more-title"> Al di sopra del nome
-      c’è la famiglia, che per “Humus” è “<span
-      style="color:blue">Altro</span>”: l’Altro con la maiuscola nel rispetto di
-      chiunque Altro.</span></p><button onclick="myFunction(this, "more-title")"
-      id="btn-title">_ALTRO</button>
+      #### </span><span id="more-title"> Al di sopra del nome c’è la famiglia,
+      che per “Humus” è “<span style="color:blue">Altro</span>”: l’Altro con la
+      maiuscola nel rispetto di chiunque Altro.</span></p><button
+      onclick="myFunction(this, "more-title")" id="btn-title">_ALTRO</button>
 
       ***
 
