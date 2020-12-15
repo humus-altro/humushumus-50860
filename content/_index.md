@@ -106,10 +106,11 @@ sections:
 
       ## Un progetto col cognome: HUMUS_ALTRO
 
-      #### <span id="dots"></span><span id="more"> Al di sopra del nome c’è la
-      famiglia, che per “Humus” è “<span style="color:blue">Altro</span>”:
-      l’Altro con la maiuscola nel rispetto di chiunque Altro.</span></p><button
-      onclick="myFunction()" id="myBtn">_ALTRO</button>
+      #### <span id="dots"></span><span id="more-title"> Al di sopra del nome
+      c’è la famiglia, che per “Humus” è “<span
+      style="color:blue">Altro</span>”: l’Altro con la maiuscola nel rispetto di
+      chiunque Altro.</span></p><button onclick="myFunction(this, "more-title")"
+      id="btn-title">_ALTRO</button>
 
       ***
 
@@ -120,9 +121,9 @@ sections:
 
       ### UN INDIVIDUO = UN  SOCIO
 
-      #### <span id="dots"></span><span id="more-more">Qualsiasi nuovo “Altro”
-      <span style="color:blue">individuo</span> può scegliere di associarsi
-      passando <span style="color:blue">ad</span> “Humus”.
+      #### <span id="dots"></span><span id="more-subscription">Qualsiasi nuovo
+      “Altro” <span style="color:blue">individuo</span> può scegliere di
+      associarsi passando <span style="color:blue">ad</span> “Humus”.
 
       #### Partecipa alle iniziative chi diventa socio dell’”Associazione Pacha
       Mama” e sottoscrive una tessera valida da settembre all’agosto seguente.
@@ -133,7 +134,8 @@ sections:
 
       #### Nessuna iniziativa prevede il pagamento di un ticket, ma tutte le
       iniziative sono solo per chi si associa.</span></p><button
-      onclick="myFunction(more-more)" id="myBtn">_ALTRO</button>
+      onclick="myFunction(this, 'more-subscription')"
+      id="btn-subscription">_ALTRO</button>
 
       ***
 
