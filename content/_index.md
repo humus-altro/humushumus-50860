@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: REGOLAMENTO RADICE DI HUMUS
+    title: ''
     subtitle: '### Scendi in profondità con gli ipertesti'
     image: images/Humus_Regolamento radice_Tavola disegno 1.png
   - title: Text
