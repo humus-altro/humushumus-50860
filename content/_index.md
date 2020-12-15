@@ -48,7 +48,7 @@ sections:
           moreText.style.display = "none";
         } else {
           dots.style.display = "none";
-          btnText.innerHTML = "Mostra meno"; 
+          btnText.innerHTML = "mostra meno"; 
           moreText.style.display = "inline";
         }
       }
