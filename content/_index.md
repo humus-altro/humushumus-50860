@@ -37,19 +37,15 @@ sections:
 
       <script>
 
-      function myFunction() {
-        var dots = document.getElementById("dots");
-        var moreText = document.getElementById("more");
-        var btnText = document.getElementById("myBtn");
+      function myFunction(button, moreTextId) {
+        var moreText = document.getElementById(moreTextId);
 
-        if (dots.style.display === "none") {
-          dots.style.display = "inline";
-          btnText.innerHTML = "_ALTRO"; 
-          moreText.style.display = "none";
-        } else {
-          dots.style.display = "none";
-          btnText.innerHTML = "mostra meno"; 
+        if (moreText.style.display === "none") {
+          this.value = "_ALTRO"; 
           moreText.style.display = "inline";
+        } else {
+          this.value = "mostra meno"; 
+          moreText.style.display = "none";
         }
       }
 
