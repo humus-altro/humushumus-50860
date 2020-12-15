@@ -109,7 +109,7 @@ sections:
       #### <span id="dots"></span><span id="more"> Al di sopra del nome c’è la
       famiglia, che per “Humus” è “<span style="color:blue">Altro</span>”:
       l’Altro con la maiuscola nel rispetto di chiunque Altro.</span></p><button
-      onclick="myFunction()" id="myBtn"></button>
+      onclick="myFunction()" id="myBtn">_ALTRO</button>
 
       ***
 
