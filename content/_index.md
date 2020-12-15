@@ -19,8 +19,6 @@ sections:
       ***
 
 
-      <body background=”majestic-robin.png”>
-
 
       ***
 
