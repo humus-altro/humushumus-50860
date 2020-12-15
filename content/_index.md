@@ -22,7 +22,7 @@ sections:
 
       <head>
 
-      <meta name="viewport" content="width=device-width, initial-scale=10">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
 
       <style>
 
@@ -44,11 +44,11 @@ sections:
 
         if (dots.style.display === "none") {
           dots.style.display = "inline";
-          btnText.innerHTML = ""; 
+          btnText.innerHTML = "Read more"; 
           moreText.style.display = "none";
         } else {
           dots.style.display = "none";
-          btnText.innerHTML = ""; 
+          btnText.innerHTML = "Read less"; 
           moreText.style.display = "inline";
         }
       }
