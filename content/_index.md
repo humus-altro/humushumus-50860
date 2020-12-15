@@ -133,7 +133,7 @@ sections:
 
       #### Nessuna iniziativa prevede il pagamento di un ticket, ma tutte le
       iniziative sono solo per chi si associa.</span></p><button
-      onclick="myFunction()" id="myBtn">_ALTRO</button>.
+      onclick="myFunction()" id="myBtn">_ALTRO</button>
 
       ***
 
