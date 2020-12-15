@@ -18,8 +18,6 @@ sections:
 
       ***
 
-      <!DOCTYPE html>
-
       <html>
 
       <head>
