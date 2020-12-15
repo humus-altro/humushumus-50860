@@ -61,8 +61,6 @@ sections:
       </html>
 
 
-      ***
-
       #### Risposta breve a un’identità complessa: COS'È’ HUMUS?
 
 
@@ -79,10 +77,6 @@ sections:
 
       ***
 
-
-
-
-      ***
 
       #### Sì ma: COSA FA HUMUS?
 
