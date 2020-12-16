@@ -1,11 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: hero
-    type: section_hero
-    title: ''
-    subtitle: '### Scendi in profondità con gli ipertesti'
-    image: images/Humus_Regolamento radice_Tavola disegno 1.png
   - title: Text
     section_id: intro
     type: section_content
@@ -324,5 +319,10 @@ sections:
     content: ''
     type: section_content
     image: images/pleasant-yam.png
+  - section_id: hero
+    type: section_hero
+    title: ''
+    subtitle: '### Scendi in profondità con gli ipertesti'
+    image: images/Humus_Regolamento radice_Tavola disegno 1.png
 layout: advanced
 ---
