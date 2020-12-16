@@ -17,7 +17,7 @@ sections:
       pulsante _altro<center>
 
 
-      <hr align=”left” size=”1″ width=”1200″ color=”red” noshade>
+      <hr size=”2″ width=”1200″>
 
 
       Regolamento Radice è la presentazione pubblica delle finalità del progetto
