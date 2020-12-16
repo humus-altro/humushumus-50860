@@ -96,7 +96,7 @@ sections:
       ***
 
 
-      ###### <span style="color:red">Per chi vuole venire alle iniziative. Per
+      ##### <span style="color:red">Per chi vuole venire alle iniziative. Per
       chi fatica ad accettare i tesseramenti. Per chi ha dubbi a prendere
       parte.</span>
 
@@ -116,7 +116,7 @@ sections:
       ***
 
 
-      ###### <span style="color:red">Per chi cerca spazio. Per chi ha bisogno di
+      ##### <span style="color:red">Per chi cerca spazio. Per chi ha bisogno di
       tempo. Per chi viene e va.</span>
 
       #### Trattamento equo e non misurabile della PRESENZA
@@ -143,7 +143,7 @@ sections:
       ***
 
 
-      ###### <span style="color:red">Per chi vuole avvicinarsi. Per chi resta.
+      ##### <span style="color:red">Per chi vuole avvicinarsi. Per chi resta.
       Per chi è disponibile a lavorare a un progetto per un periodo.</span>
 
       #### Qualcosa si crea e altro si trasforma:
@@ -195,7 +195,7 @@ sections:
       ***
 
 
-      ###### <span style="color:red">Per le persone che possono donare
+      ##### <span style="color:red">Per le persone che possono donare
       sensibilità e capacità al progetto. Per chi ha urgenza di esprimersi. Per
       chi ha una ragione sociale o una causa da condividere. Per entrare in rete
       alla pari.</span>
@@ -213,10 +213,10 @@ sections:
       ***
 
 
-      ###### <span style="color:red">Per le collaborazioni che abbiamo
-      instaurato sulla base di leggi di mercato. Per le parti della proposta che
-      richiedono rimborsi, acquisti o stipendi. Per comprendere meglio le scelte
-      delle spese di bilancio.</span>
+      ##### <span style="color:red">Per le collaborazioni che abbiamo instaurato
+      sulla base di leggi di mercato. Per le parti della proposta che richiedono
+      rimborsi, acquisti o stipendi. Per comprendere meglio le scelte delle
+      spese di bilancio.</span>
 
       #### PARTNER ECONOMICI
 
@@ -239,7 +239,7 @@ sections:
       ***
 
 
-      ###### <span style="color:red">Per i pragmatici</span>
+      ##### <span style="color:red">Per i pragmatici</span>
 
       #### MISSIONE
 
@@ -262,7 +262,7 @@ sections:
       ***
 
 
-      ###### <span style="color:red">Per i sognatori</span>
+      ##### <span style="color:red">Per i sognatori</span>
 
       #### VISIONE
 
