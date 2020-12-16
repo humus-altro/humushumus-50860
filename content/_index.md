@@ -222,13 +222,13 @@ sections:
 
       ### PARTNER SOLIDALI 
 
-      #### Humus vive in una realtà complessa e ricca di soggetti “altri” con
-      cui dialogare, lavorare e camminare verso un orizzonte comune, mantenendo
-      una propria unicità.
-
-      #### Sono chiamati partner solidali, collettivi o i singoli, che
-      riconoscono in Humus lo spazio dove potersi esprimere e che collaborano
-      alle iniziative di Humus e le arricchiscono della loro esperienza.
+      #### </span><span id="tre" style="display: none">Humus vive in una realtà
+      complessa e ricca di soggetti “altri” con cui dialogare, lavorare e
+      camminare verso un orizzonte comune, mantenendo una propria unicità. Sono
+      chiamati partner solidali, collettivi o i singoli, che riconoscono in
+      Humus lo spazio dove potersi esprimere e che collaborano alle iniziative
+      di Humus e le arricchiscono della loro esperienza.</span></p><button
+      onclick="myFunction(this, 'tre')" id="btn-title">_ALTRO</button>
 
       ***
 
