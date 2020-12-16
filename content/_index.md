@@ -293,10 +293,5 @@ sections:
       una società globale che cerca un equilibrio nelle radici che la natura
       dell’uomo ha intrecciato su quella del pianeta.</span></p><button
       onclick="myFunction(this, 'sei')" id="btn-title">_ALTRO</button>
-  - section_id: hero
-    type: section_hero
-    title: ''
-    subtitle: '### Scendi in profondità con gli ipertesti'
-    image: images/Humus_Regolamento radice_Tavola disegno 1.png
 layout: advanced
 ---
