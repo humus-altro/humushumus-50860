@@ -10,6 +10,9 @@ sections:
     section_id: intro
     type: section_content
     content: >-
+      <body bgcolor="blue">
+
+
       #### Scendi in profondità con gli ipertesti.<br> Clicca il pulsante _altro
 
       ***
