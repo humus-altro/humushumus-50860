@@ -110,7 +110,7 @@ sections:
       #### </span><span id="more-title"> Al di sopra del nome c’è la famiglia,
       che per “Humus” è “<span style="color:blue">Altro</span>”: l’Altro con la
       maiuscola nel rispetto di chiunque Altro.</span></p><button
-      onclick="myFunction("more-title")" id="btn-title">_ALTRO</button>
+      onclick="myFunction(this, "more-title")" id="btn-title">_ALTRO</button>
 
       ***
 
@@ -134,7 +134,7 @@ sections:
 
       #### Nessuna iniziativa prevede il pagamento di un ticket, ma tutte le
       iniziative sono solo per chi si associa.</span></p><button
-      onclick="myFunction('more-subscription')"
+      onclick="myFunction(this, 'more-subscription')"
       id="btn-subscription">_ALTRO</button>
 
       ***
