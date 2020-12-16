@@ -6,7 +6,7 @@ sections:
     content: |-
 
 
-
+      ***
 
       ## Scendi in profondità con gli ipertesti
     type: section_content
