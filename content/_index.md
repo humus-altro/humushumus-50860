@@ -59,14 +59,11 @@ sections:
 
       #### Risposta breve a un’identità complessa: COS'È’ HUMUS?
 
+       “Humus” è il network delle persone che si sentono rappresentate da questo nome. 
+      “Humus” è nell’assemblea dei soci dell’”Associazione Pacha Mama”.
 
-      #### “Humus” è il network delle persone che si sentono rappresentate da
-      questo nome. 
-
-      #### “Humus” è nell’assemblea dei soci dell’”Associazione Pacha Mama”.
-
-      #### Germoglio da “Humus” nasce grazie all’ impegno dei volontari
-      disponibili a ciclo trimestrale.
+      Germoglio da “Humus” nasce grazie all’ impegno dei volontari disponibili a
+      ciclo trimestrale.
 
       ***
 
@@ -74,17 +71,11 @@ sections:
       #### Sì ma: COSA FA HUMUS?
 
 
-      #### Gioca a sperimantare i linguaggi della cultura. Avvicina le persone
-      alla consapevolezza della loro natura: quella solidale. 
-
-      #### Vicini in un’esperienza originale non possiamo piú negare di avere
-      qualcosa in comune.
-
-      #### ED È PER QUESTO CHE “Humus” C’È
-
-      #### nelle iniziative che hanno il prefisso “altro-” 
-
-      #### (hai presente "Humus Altro Natale[#2 altrofestival](https://)”?)
+      Gioca a sperimantare i linguaggi della cultura. Avvicina le persone alla
+      consapevolezza della loro natura: quella solidale. Vicini in un’esperienza
+      originale non possiamo piú negare di avere qualcosa in comune. ED È PER
+      QUESTO CHE “Humus” C’È nelle iniziative che hanno il prefisso “altro-” 
+      (hai presente "Humus Altro Natale[#2 altrofestival](https://)”?)
 
       ***
 
@@ -95,10 +86,9 @@ sections:
       ## Un progetto col cognome: HUMUS_ALTRO
 
       #### </span><span id="more-title" style="display: none"> Al di sopra del
-      nome c’è la famiglia, che per “Humus” è “<span
-      style="color:blue">Altro</span>”: l’Altro con la maiuscola nel rispetto di
-      chiunque Altro.</span></p><button onclick="myFunction(this, 'more-title')"
-      id="btn-title">_ALTRO</button>
+      nome c’è la famiglia, che per “Humus” è “Altro”: l’Altro con la maiuscola
+      nel rispetto di chiunque Altro.</span></p><button
+      onclick="myFunction(this, 'more-title')" id="btn-title">_ALTRO</button>
 
       ***
 
