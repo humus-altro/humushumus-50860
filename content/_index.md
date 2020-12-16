@@ -321,17 +321,7 @@ sections:
       natura dell’uomo ha intrecciato su quella del pianeta.  </mark>
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: ''
     type: section_content
     image: images/pleasant-yam.png
 layout: advanced
