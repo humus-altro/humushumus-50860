@@ -91,8 +91,8 @@ sections:
 
       </span><span id="more-title" style="display: none"> Al di sopra del nome
       c’è la famiglia, che per “Humus” è “Altro”: l’Altro con la maiuscola nel
-      rispetto di chiunque Altro.<p align="right"/></span></p><button
-      onclick="myFunction(this, 'more-title')" id="btn-title">_ALTRO</button>
+      rispetto di chiunque Altro.</span></p><button onclick="myFunction(this,
+      'more-title')" id="btn-title">_ALTRO</button>
 
       ***
 
@@ -272,7 +272,7 @@ sections:
       con consapevolezza delle profonde implicazioni con il resto dell’ambiente,
       allora magari è più facile che trovi fiducia per immaginare una società
       globale che cerca un equilibrio nelle radici che la natura dell’uomo ha
-      intrecciato su quella del pianeta.<p align="right"/></span></p><button
+      intrecciato su quella del pianeta.</span></p><button
       onclick="myFunction(this, 'sei')" id="btn-title">_ALTRO</button>
 layout: advanced
 ---
