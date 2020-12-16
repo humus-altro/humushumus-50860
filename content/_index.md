@@ -13,7 +13,8 @@ sections:
       <body bgcolor="#f7f1e1">
 
 
-      #### Scendi in profondità con gli ipertesti.<br> Clicca il pulsante _altro
+      #### <center>Scendi in profondità con gli ipertesti.<br> Clicca il
+      pulsante _altro<center>
 
       ***
 
