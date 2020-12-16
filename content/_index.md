@@ -7,7 +7,8 @@ sections:
       ## SCENDI
       ## in 
       ## PROFONDITÀ
-      ## con gli IPERTESTI
+      ## con gli 
+      ## IPERTESTI
     type: section_content
     image: images/pleasant-yam.png
   - title: Text
