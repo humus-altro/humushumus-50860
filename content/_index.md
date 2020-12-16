@@ -320,7 +320,7 @@ sections:
       immaginare una società globale che cerca un equilibrio nelle radici che la
       natura dell’uomo ha intrecciato su quella del pianeta.  </mark>
   - title: lorem-ipsum
-    section_id: lorem-ipsum
+    section_id: ''
     content: ''
     type: section_content
     image: images/pleasant-yam.png
