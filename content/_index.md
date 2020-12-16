@@ -319,5 +319,19 @@ sections:
       resto dell’ambiente, allora magari è più facile che trovi fiducia per
       immaginare una società globale che cerca un equilibrio nelle radici che la
       natura dell’uomo ha intrecciato su quella del pianeta.  </mark>
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: section_content
 layout: advanced
 ---
