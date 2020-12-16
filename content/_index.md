@@ -10,7 +10,9 @@ sections:
     section_id: intro
     type: section_content
     content: >-
-      ### Scendi in profondità con gli ipertesti. Clicca il pulsante altro
+      ### Scendi in profondità con gli ipertesti. 
+
+      ### Clicca il pulsante _altro
 
       ***
 
