@@ -85,10 +85,10 @@ sections:
 
       ## Un progetto col cognome: HUMUS_ALTRO
 
-      #### </span><span id="more-title" style="display: none"> Al di sopra del
-      nome c’è la famiglia, che per “Humus” è “Altro”: l’Altro con la maiuscola
-      nel rispetto di chiunque Altro.</span></p><button
-      onclick="myFunction(this, 'more-title')" id="btn-title">_ALTRO</button>
+      </span><span id="more-title" style="display: none"> Al di sopra del nome
+      c’è la famiglia, che per “Humus” è “Altro”: l’Altro con la maiuscola nel
+      rispetto di chiunque Altro.</span></p><button onclick="myFunction(this,
+      'more-title')" id="btn-title">_ALTRO</button>
 
       ***
 
@@ -99,7 +99,7 @@ sections:
 
       ### UN INDIVIDUO = UN  SOCIO
 
-      #### <span id="dots"></span><span id="more-subscription" style="display:
+      <span id="dots"></span><span id="more-subscription" style="display:
       none">Qualsiasi nuovo “Altro” <span style="color:blue">individuo</span>
       può scegliere di associarsi passando <span style="color:blue">ad</span>
       “Humus”. Partecipa alle iniziative chi diventa socio dell’”Associazione
@@ -119,10 +119,10 @@ sections:
       ### Trattamento equo e non misurabile della PRESENZA
 
 
-      #### </span><span id="uno" style="display: none">Da “Humus” l’adesione è
-      più importante del contributo: se ogni evento prevedesse un costo
-      d’ingresso fisso ci sarebbero più soldi in cassa e meno nomi nel registro.
-      Più sicurezza economica ma meno ricchezza sociale. -> <span
+      </span><span id="uno" style="display: none">Da “Humus” l’adesione è più
+      importante del contributo: se ogni evento prevedesse un costo d’ingresso
+      fisso ci sarebbero più soldi in cassa e meno nomi nel registro. Più
+      sicurezza economica ma meno ricchezza sociale. -> <span
       style="color:green">questo ci piace molto!</span> Chi appoggia “Humus”
       nutre “Humus”.  Eque e non soppesabili sono le presenze. Chi trascorre una
       sola ora e chi viene alle iniziative tutto l’anno. Chi pensa a “Humus” ma
@@ -148,7 +148,7 @@ sections:
       ### ASSEMBLEA GLOBALE E VOLONTARI OPERATIVI
 
 
-      #### </span><span id="due" style="display: none">La proposta “Humus” nasce
+      </span><span id="due" style="display: none">La proposta “Humus” nasce
       dall’Assemblea Globale che si incontra per esprimere il suo voto. Ogni tre
       mesi il Consiglio Direttivo dell’associazione convoca l’Assemblea Globale
       per rinnovare la motivazione di tutti i soci alla semina del nuovo ciclo
@@ -199,7 +199,7 @@ sections:
 
       ### PARTNER SOLIDALI 
 
-      #### </span><span id="tre" style="display: none">Humus vive in una realtà
+      </span><span id="tre" style="display: none">Humus vive in una realtà
       complessa e ricca di soggetti “altri” con cui dialogare, lavorare e
       camminare verso un orizzonte comune, mantenendo una propria unicità. Sono
       chiamati partner solidali, collettivi o i singoli, che riconoscono in
@@ -217,13 +217,13 @@ sections:
 
       ### PARTNER ECONOMICI
 
-      #### </span><span id="quattro" style="display: none">Il progetto rientra
-      delle sue spese principalmente attraverso le quote associative. Anche
-      attraverso i finanziamenti pubblici e quelli privati, Humus trova sostegno
-      per le sue iniziative. Costruire costa e non tutto può essere pagato
-      attraverso il lavoro volontario o lo scambio. Se i materiali di recupero,
-      il lavoro volontario, i doni sono risorse che non prevedono voci di spesa,
-      i prodotti etici e sostenibili, il lavoro di tecnici specializzati, le
+      </span><span id="quattro" style="display: none">Il progetto rientra delle
+      sue spese principalmente attraverso le quote associative. Anche attraverso
+      i finanziamenti pubblici e quelli privati, Humus trova sostegno per le sue
+      iniziative. Costruire costa e non tutto può essere pagato attraverso il
+      lavoro volontario o lo scambio. Se i materiali di recupero, il lavoro
+      volontario, i doni sono risorse che non prevedono voci di spesa, i
+      prodotti etici e sostenibili, il lavoro di tecnici specializzati, le
       autorizzazioni, le assicurazioni, le certificazioni, il noleggio di
       strumentazioni necessarie, e più in generale tutti quei servizi e prodotti
       che non si riescono a procurare in maniera diversa se non acquistandoli
@@ -240,14 +240,14 @@ sections:
 
       ### MISSIONE
 
-      #### </span><span id="cinque" style="display: none">Il germoglio è la
-      missione. In pratica “Humus” organizza iniziative in modo sostenibile. Dal
-      rispetto dell’ambiente a quello per il lavoro umano, le strategie e
-      pratiche di cui si avvale sono per il cittadino un punto di riferimento
-      concreto e fattibile: usa prodotti della filiera del commercio equo o di
-      quella locale; lascia esprimere artisti del <mark>territorio</mark> e non
-      giudica i linguaggi dell’arte o della cultura attuale; lotta insieme ad
-      altri perseguendo le stesse cause sociali verso la riduzione delle
+      </span><span id="cinque" style="display: none">Il germoglio è la missione.
+      In pratica “Humus” organizza iniziative in modo sostenibile. Dal rispetto
+      dell’ambiente a quello per il lavoro umano, le strategie e pratiche di cui
+      si avvale sono per il cittadino un punto di riferimento concreto e
+      fattibile: usa prodotti della filiera del commercio equo o di quella
+      locale; lascia esprimere artisti del <mark>territorio</mark> e non giudica
+      i linguaggi dell’arte o della cultura attuale; lotta insieme ad altri
+      perseguendo le stesse cause sociali verso la riduzione delle
       diseguaglianze e il miglioramento della qualità di vita delle singole
       persone; comunica messaggi positivi argomentando dettagliatamente con
       parole e fatti le alte possibilità di perseguire obiettivi comuni grazie
@@ -263,12 +263,12 @@ sections:
 
       ### VISIONE
 
-      #### </span><span id="sei" style="display: none">Le radici sono la
-      visione. Se uno vede in “Humus” che è possibile un posto in cui le scelte
-      sono prese con consapevolezza delle profonde implicazioni con il resto
-      dell’ambiente, allora magari è più facile che trovi fiducia per immaginare
-      una società globale che cerca un equilibrio nelle radici che la natura
-      dell’uomo ha intrecciato su quella del pianeta.</span></p><button
+      </span><span id="sei" style="display: none">Le radici sono la visione. Se
+      uno vede in “Humus” che è possibile un posto in cui le scelte sono prese
+      con consapevolezza delle profonde implicazioni con il resto dell’ambiente,
+      allora magari è più facile che trovi fiducia per immaginare una società
+      globale che cerca un equilibrio nelle radici che la natura dell’uomo ha
+      intrecciato su quella del pianeta.</span></p><button
       onclick="myFunction(this, 'sei')" id="btn-title">_ALTRO</button>
 layout: advanced
 ---
