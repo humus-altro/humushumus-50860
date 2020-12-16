@@ -91,8 +91,8 @@ sections:
 
       </span><span id="more-title" style="display: none"> Al di sopra del nome
       c’è la famiglia, che per “Humus” è “Altro”: l’Altro con la maiuscola nel
-      rispetto di chiunque Altro.</span></p><button onclick="myFunction(this,
-      'more-title')" id="btn-title">_ALTRO</button>
+      rispetto di chiunque Altro.<p align="right"/></span></p><button
+      onclick="myFunction(this, 'more-title')" id="btn-title">_ALTRO</button>
 
       ***
 
