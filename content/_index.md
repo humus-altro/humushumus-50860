@@ -122,13 +122,12 @@ sections:
 
       ### UN INDIVIDUO = UN  SOCIO
 
-      #### <span id="dots"></span><span id="more-subscription">Qualsiasi nuovo
-      “Altro” <span style="color:blue">individuo</span> può scegliere di
-      associarsi passando <span style="color:blue">ad</span> “Humus”
-
-      #### Partecipa alle iniziative chi diventa socio dell’”Associazione Pacha
-      Mama” e sottoscrive una tessera valida da settembre all’agosto seguente.
-      La tessera ha un costo.
+      #### <span id="dots"></span><span id="more-subscription" style="display:
+      none">Qualsiasi nuovo “Altro” <span style="color:blue">individuo</span>
+      può scegliere di associarsi passando <span style="color:blue">ad</span>
+      “Humus” Partecipa alle iniziative chi diventa socio dell’”Associazione
+      Pacha Mama” e sottoscrive una tessera valida da settembre all’agosto
+      seguente. La tessera ha un costo.
 
       #### Presentando la tessera valida col proprio nome si viene riconosciuti
       soci.
