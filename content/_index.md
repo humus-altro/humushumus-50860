@@ -4,10 +4,10 @@ sections:
   - title: ''
     section_id: ''
     content: |-
-      ## scendi 
+      ## SCENDI
       ## in 
-      ## profondita
-      ## con gli ipertesti
+      ## PROFONDITÀ
+      ## con gli IPERTESTI
     type: section_content
     image: images/pleasant-yam.png
   - title: Text
