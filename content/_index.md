@@ -124,7 +124,7 @@ sections:
 
       #### <span id="dots"></span><span id="more-subscription">Qualsiasi nuovo
       “Altro” <span style="color:blue">individuo</span> può scegliere di
-      associarsi passando <span style="color:blue">ad</span> “Humus”.
+      associarsi passando <span style="color:blue">ad</span> “Humus”
 
       #### Partecipa alle iniziative chi diventa socio dell’”Associazione Pacha
       Mama” e sottoscrive una tessera valida da settembre all’agosto seguente.
