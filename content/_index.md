@@ -272,7 +272,7 @@ sections:
       con consapevolezza delle profonde implicazioni con il resto dell’ambiente,
       allora magari è più facile che trovi fiducia per immaginare una società
       globale che cerca un equilibrio nelle radici che la natura dell’uomo ha
-      intrecciato su quella del pianeta.</span></p><button
+      intrecciato su quella del pianeta.<p align="right"/></span></p><button
       onclick="myFunction(this, 'sei')" id="btn-title">_ALTRO</button>
 layout: advanced
 ---
