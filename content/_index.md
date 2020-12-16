@@ -17,7 +17,6 @@ sections:
       pulsante _altro<center>
 
 
-      <hr>
 
 
       Regolamento Radice è la presentazione pubblica delle finalità del progetto
