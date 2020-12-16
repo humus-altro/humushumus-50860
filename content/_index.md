@@ -10,6 +10,9 @@ sections:
     section_id: intro
     type: section_content
     content: >-
+      ### Scendi in profondità con gli ipertesti
+
+
       #### Regolamento Radice è la presentazione pubblica delle finalità del
       progetto <span style="color:blue">"Humus"</span>, nato nel 2019 da un’idea
       dell’<span style="color:blue">”Associazione di Volontariato Pacha Mama
