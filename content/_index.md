@@ -127,9 +127,8 @@ sections:
       può scegliere di associarsi passando <span style="color:blue">ad</span>
       “Humus”. Partecipa alle iniziative chi diventa socio dell’”Associazione
       Pacha Mama” e sottoscrive una tessera valida da settembre all’agosto
-      seguente. La tessera ha un costo.
-
-      Presentando la tessera valida col proprio nome si viene riconosciuti soci.
+      seguente. La tessera ha un costo. Presentando la tessera valida col
+      proprio nome si viene riconosciuti soci.
 
       Nessuna iniziativa prevede il pagamento di un ticket, ma tutte le
       iniziative sono solo per chi si associa.</span></p><button
