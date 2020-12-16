@@ -16,7 +16,7 @@ sections:
       #### <center>Scendi in profondità con gli ipertesti.<br> Clicca il
       pulsante _altro<center>
 
-
+      ***
 
 
       Regolamento Radice è la presentazione pubblica delle finalità del progetto
