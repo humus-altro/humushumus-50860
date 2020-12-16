@@ -139,7 +139,7 @@ sections:
       ###### <span style="color:red">Per chi cerca spazio. Per chi ha bisogno di
       tempo. Per chi viene e va.</span>
 
-      #### Trattamento equo e non misurabile della PRESENZA
+      ### Trattamento equo e non misurabile della PRESENZA
 
 
       #### Da “Humus” l’adesione è più importante del contributo: se ogni evento
