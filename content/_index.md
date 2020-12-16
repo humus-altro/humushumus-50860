@@ -240,24 +240,21 @@ sections:
 
       ### PARTNER ECONOMICI
 
-      #### Il progetto rientra delle sue spese principalmente attraverso le
-      quote associative. 
-
-      #### Anche attraverso i finanziamenti pubblici e quelli privati, Humus
-      trova sostegno per le sue iniziative. Costruire costa e non tutto può
-      essere pagato attraverso il lavoro volontario o lo scambio.
-
-      #### Se i materiali di recupero, il lavoro volontario, i doni sono risorse
-      che non prevedono voci di spesa, i prodotti etici e sostenibili, il lavoro
-      di tecnici specializzati, le autorizzazioni, le assicurazioni, le
-      certificazioni, il noleggio di strumentazioni necessarie, e più in
-      generale tutti quei servizi e prodotti che non si riescono a procurare in
-      maniera diversa se non acquistandoli sul mercato, diventano voci di spesa.
-
-      #### Gli artisti e i professionisti nel campo sociale o della cultura
-      arricchiscono il terreno che Humus abita e coltiva; per questo su di loro
-      l’associazione investe un valore economico espresso chiaramente nel
-      bilancio trimestrale.
+      #### </span><span id="quattro" style="display: none">Il progetto rientra
+      delle sue spese principalmente attraverso le quote associative. Anche
+      attraverso i finanziamenti pubblici e quelli privati, Humus trova sostegno
+      per le sue iniziative. Costruire costa e non tutto può essere pagato
+      attraverso il lavoro volontario o lo scambio. Se i materiali di recupero,
+      il lavoro volontario, i doni sono risorse che non prevedono voci di spesa,
+      i prodotti etici e sostenibili, il lavoro di tecnici specializzati, le
+      autorizzazioni, le assicurazioni, le certificazioni, il noleggio di
+      strumentazioni necessarie, e più in generale tutti quei servizi e prodotti
+      che non si riescono a procurare in maniera diversa se non acquistandoli
+      sul mercato, diventano voci di spesa. Gli artisti e i professionisti nel
+      campo sociale o della cultura arricchiscono il terreno che Humus abita e
+      coltiva; per questo su di loro l’associazione investe un valore economico
+      espresso chiaramente nel bilancio trimestrale.</span></p><button
+      onclick="myFunction(this, 'quattro')" id="btn-title">_ALTRO</button>
 
       ***
 
@@ -266,9 +263,8 @@ sections:
 
       ### MISSIONE
 
-      #### Il germoglio è la missione.
-
-      #### In pratica “Humus” organizza iniziative in modo sostenibile. Dal
+      #### </span><span id="cinque" style="display: none">Il germoglio è la
+      missione. In pratica “Humus” organizza iniziative in modo sostenibile. Dal
       rispetto dell’ambiente a quello per il lavoro umano, le strategie e
       pratiche di cui si avvale sono per il cittadino un punto di riferimento
       concreto e fattibile: usa prodotti della filiera del commercio equo o di
@@ -278,10 +274,10 @@ sections:
       diseguaglianze e il miglioramento della qualità di vita delle singole
       persone; comunica messaggi positivi argomentando dettagliatamente con
       parole e fatti le alte possibilità di perseguire obiettivi comuni grazie
-      alla partecipazione cosciente della cittadinanza alla vita pubblica.
-
-      #### Se uno ad un evento “Humus” trova una parte di tutto questo, il
-      progetto si è avvicinato alla sua missione sul campo.
+      alla partecipazione cosciente della cittadinanza alla vita pubblica. Se
+      uno ad un evento “Humus” trova una parte di tutto questo, il progetto si è
+      avvicinato alla sua missione sul campo.</span></p><button
+      onclick="myFunction(this, 'cinque')" id="btn-title">_ALTRO</button>
 
       ***
 
@@ -290,13 +286,13 @@ sections:
 
       ### VISIONE
 
-      #### Le radici sono la visione.
-
-      #### <mark>Se uno vede in “Humus” che è possibile un posto in cui le
-      scelte sono prese con consapevolezza delle profonde implicazioni con il
-      resto dell’ambiente, allora magari è più facile che trovi fiducia per
-      immaginare una società globale che cerca un equilibrio nelle radici che la
-      natura dell’uomo ha intrecciato su quella del pianeta.  </mark>
+      #### </span><span id="sei" style="display: none">Le radici sono la
+      visione. Se uno vede in “Humus” che è possibile un posto in cui le scelte
+      sono prese con consapevolezza delle profonde implicazioni con il resto
+      dell’ambiente, allora magari è più facile che trovi fiducia per immaginare
+      una società globale che cerca un equilibrio nelle radici che la natura
+      dell’uomo ha intrecciato su quella del pianeta.</span></p><button
+      onclick="myFunction(this, 'sei')" id="btn-title">_ALTRO</button>
   - section_id: hero
     type: section_hero
     title: ''
