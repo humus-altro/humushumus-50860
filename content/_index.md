@@ -333,5 +333,6 @@ sections:
 
       - dolor sit amet
     type: section_content
+    image: images/pleasant-yam.png
 layout: advanced
 ---
