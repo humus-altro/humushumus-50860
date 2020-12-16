@@ -83,7 +83,7 @@ sections:
       ###### <span style="color:red">Leggi le parti rosse, trova facilmente la
       parte che ti interessa</span>
 
-      ## Un progetto col cognome: HUMUS_ALTRO
+      #### Un progetto col cognome: HUMUS_ALTRO
 
       </span><span id="more-title" style="display: none"> Al di sopra del nome
       c’è la famiglia, che per “Humus” è “Altro”: l’Altro con la maiuscola nel
@@ -97,7 +97,7 @@ sections:
       chi fatica ad accettare i tesseramenti. Per chi ha dubbi a prendere
       parte.</span>
 
-      ### UN INDIVIDUO = UN  SOCIO
+      #### UN INDIVIDUO = UN  SOCIO
 
       <span id="dots"></span><span id="more-subscription" style="display:
       none">Qualsiasi nuovo “Altro” <span style="color:blue">individuo</span>
@@ -116,7 +116,7 @@ sections:
       ###### <span style="color:red">Per chi cerca spazio. Per chi ha bisogno di
       tempo. Per chi viene e va.</span>
 
-      ### Trattamento equo e non misurabile della PRESENZA
+      #### Trattamento equo e non misurabile della PRESENZA
 
 
       </span><span id="uno" style="display: none">Da “Humus” l’adesione è più
@@ -145,7 +145,7 @@ sections:
 
       #### Qualcosa si crea e altro si trasforma:
 
-      ### ASSEMBLEA GLOBALE E VOLONTARI OPERATIVI
+      #### ASSEMBLEA GLOBALE E VOLONTARI OPERATIVI
 
 
       </span><span id="due" style="display: none">La proposta “Humus” nasce
@@ -197,7 +197,7 @@ sections:
       chi ha una ragione sociale o una causa da condividere. Per entrare in rete
       alla pari.</span>
 
-      ### PARTNER SOLIDALI 
+      #### PARTNER SOLIDALI 
 
       </span><span id="tre" style="display: none">Humus vive in una realtà
       complessa e ricca di soggetti “altri” con cui dialogare, lavorare e
@@ -215,7 +215,7 @@ sections:
       richiedono rimborsi, acquisti o stipendi. Per comprendere meglio le scelte
       delle spese di bilancio.</span>
 
-      ### PARTNER ECONOMICI
+      #### PARTNER ECONOMICI
 
       </span><span id="quattro" style="display: none">Il progetto rientra delle
       sue spese principalmente attraverso le quote associative. Anche attraverso
@@ -238,7 +238,7 @@ sections:
 
       ###### <span style="color:red">Per i pragmatici</span>
 
-      ### MISSIONE
+      #### MISSIONE
 
       </span><span id="cinque" style="display: none">Il germoglio è la missione.
       In pratica “Humus” organizza iniziative in modo sostenibile. Dal rispetto
@@ -261,7 +261,7 @@ sections:
 
       ###### <span style="color:red">Per i sognatori</span>
 
-      ### VISIONE
+      #### VISIONE
 
       </span><span id="sei" style="display: none">Le radici sono la visione. Se
       uno vede in “Humus” che è possibile un posto in cui le scelte sono prese
