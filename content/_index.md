@@ -171,56 +171,46 @@ sections:
       ### ASSEMBLEA GLOBALE E VOLONTARI OPERATIVI
 
 
-      #### La proposta “Humus” nasce dall’Assemblea Globale che si incontra per
-      esprimere il suo voto.
-
-      #### Ogni tre mesi il Consiglio Direttivo dell’associazione convoca
-      l’Assemblea Globale per rinnovare la motivazione di tutti i soci alla
-      semina del nuovo ciclo di programmazione. Con regolarità miete e pianta.
-
-      #### Solo chi sceglie di impegnarsi durante un ciclo di tre mesi è
-      volontario in “Humus” e a nessuno può essere richiesta preventivamente una
-      continuità di durata maggiore. Un <mark>volontario</mark> sa individuare
-      l’area d’interesse nella quale crescere e fare crescere, dove le
-      attitudini, le potenzialità, le aspirazioni, da nutrimento diventano
-      <mark>germoglio</mark> seguendo un metodo.
-
-      #### E’ operativo il volontario che si prende cura: tre mesi, una sera a
+      #### </span><span id="due" style="display: none">La proposta “Humus” nasce
+      dall’Assemblea Globale che si incontra per esprimere il suo voto. Ogni tre
+      mesi il Consiglio Direttivo dell’associazione convoca l’Assemblea Globale
+      per rinnovare la motivazione di tutti i soci alla semina del nuovo ciclo
+      di programmazione. Con regolarità miete e pianta. Solo chi sceglie di
+      impegnarsi durante un ciclo di tre mesi è volontario in “Humus” e a
+      nessuno può essere richiesta preventivamente una continuità di durata
+      maggiore. Un volontario sa individuare l’area d’interesse nella quale
+      crescere e fare crescere, dove le attitudini, le potenzialità, le
+      aspirazioni, da nutrimento diventano germoglio seguendo un metodo. E’
+      operativo il volontario che si prende cura: tre mesi, una sera a
       settimana, portando del lavoro a casa. Coltivano intese i volontari che
       collaborano all’interno di un Gruppo Operativo, dove seguono con efficacia
       settoriale la crescita delle iniziative che da “Humus” nascono in quel
       trimestre. Cinque rappresentanti per cinque Gruppi Operativi:
-      Comunicazione, Culturale, Sociale, Tecnico, Logistico. 
-
-      #### I rappresentanti intrecciano sinergicamente le competenze di ciascun
-      gruppo ad Altro Consiglio, dove le iniziative di un trimestre sono
-      progettate seguendo una visione di insieme. Due membri del Consiglio
-      Direttivo dell’associazione supervisionano le attività di Altro Consiglio
-      esplicitando le sensibilità che in questo Regolamento Radice sono
-      sancite. 
-
-      #### Il Consiglio Direttivo e il Regolamento Radice sono la garanzia che
-      l’organizzazione rimanga sul lungo periodo coerente alla sua specificità.
-
-      #### All’Assemblea Globale i soci eleggono il Presidente più tre altri
-      membri (il Segretario, il Tesoriere, il Quarto) che per dodici mesi
-      (quattro cicli) rappresenteranno formalmente l’associazione tutta. 
-
-      #### Il Consiglio Direttivo si impegna a garantire la continuità nel tempo
-      dell’attività associativa convocando ogni tre mesi l’Assemblea Globale,
-      moderando l’incontro con tutti i soci nei tempi e nelle modalità affinchè
-      siano abbattute le barriere tra un singolo socio e la sua possibilità di
-      poter esprimere un cambiamento della forma fluida di “Humus”, modificando
-      questo Regolamento Radice. L’Assemblea Globale si confronta sulle attività
-      del ciclo precedente, formula le proposte del ciclo successivo e approva i
-      Gruppi Operativi nella quale si sono liberamente inseriti gli associati
-      che decidono di donare la propria disponibilità di volontari al progetto,
-      almeno fino al trimestre successivo.
-
-      #### ***Seguendo questo metodo, l’Associazione rimane contestualmente
-      fluida e solida, perché rinnova ciclicamente nell’incontro con i cittadini
-      le premesse di una presenza radicata e sentita ma anche germogliata e
-      viva.***
+      Comunicazione, Culturale, Sociale, Tecnico, Logistico. I rappresentanti
+      intrecciano sinergicamente le competenze di ciascun gruppo ad Altro
+      Consiglio, dove le iniziative di un trimestre sono progettate seguendo una
+      visione di insieme. Due membri del Consiglio Direttivo dell’associazione
+      supervisionano le attività di Altro Consiglio esplicitando le sensibilità
+      che in questo Regolamento Radice sono sancite. Il Consiglio Direttivo e il
+      Regolamento Radice sono la garanzia che l’organizzazione rimanga sul lungo
+      periodo coerente alla sua specificità. All’Assemblea Globale i soci
+      eleggono il Presidente più tre altri membri (il Segretario, il Tesoriere,
+      il Quarto) che per dodici mesi (quattro cicli) rappresenteranno
+      formalmente l’associazione tutta. Il Consiglio Direttivo si impegna a
+      garantire la continuità nel tempo dell’attività associativa convocando
+      ogni tre mesi l’Assemblea Globale, moderando l’incontro con tutti i soci
+      nei tempi e nelle modalità affinchè siano abbattute le barriere tra un
+      singolo socio e la sua possibilità di poter esprimere un cambiamento della
+      forma fluida di “Humus”, modificando questo Regolamento Radice.
+      L’Assemblea Globale si confronta sulle attività del ciclo precedente,
+      formula le proposte del ciclo successivo e approva i Gruppi Operativi
+      nella quale si sono liberamente inseriti gli associati che decidono di
+      donare la propria disponibilità di volontari al progetto, almeno fino al
+      trimestre successivo. ***Seguendo questo metodo, l’Associazione rimane
+      contestualmente fluida e solida, perché rinnova ciclicamente nell’incontro
+      con i cittadini le premesse di una presenza radicata e sentita ma anche
+      germogliata e viva.***</span></p><button onclick="myFunction(this, 'due')"
+      id="btn-title">_ALTRO</button>
 
       ***
 
