@@ -42,19 +42,15 @@ sections:
 
       <script>
 
-      function myFunction() {
-        var dots = document.getElementById("dots");
+      function myFunction(button, moreTextId) {
         var moreText = document.getElementById(moreTextId);
-        var btnText = document.getElementById("myBtn");
 
-        if (dots.style.display === "none") {
-          dots.style.display = "inline";
-          btnText.innerHTML = "_ALTRO"; 
-          moreText.style.display = "none";
-        } else {
-          dots.style.display = "none";
-          btnText.innerHTML = "mostra meno"; 
+        if (moreText.style.display === "none") {
+          this.value = "_ALTRO"; 
           moreText.style.display = "inline";
+        } else {
+          this.value = "mostra meno"; 
+          moreText.style.display = "none";
         }
       }
 
@@ -114,7 +110,7 @@ sections:
       #### </span><span id="more-title"> Al di sopra del nome c’è la famiglia,
       che per “Humus” è “<span style="color:blue">Altro</span>”: l’Altro con la
       maiuscola nel rispetto di chiunque Altro.</span></p><button
-      onclick="myFunction(this, "more-title")" id="btn-title">_ALTRO</button>
+      onclick="myFunction("more-title")" id="btn-title">_ALTRO</button>
 
       ***
 
@@ -138,7 +134,7 @@ sections:
 
       #### Nessuna iniziativa prevede il pagamento di un ticket, ma tutte le
       iniziative sono solo per chi si associa.</span></p><button
-      onclick="myFunction(this, 'more-subscription')"
+      onclick="myFunction('more-subscription')"
       id="btn-subscription">_ALTRO</button>
 
       ***
