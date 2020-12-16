@@ -14,11 +14,7 @@ sections:
 
       ***
 
-
-      #### Regolamento Radice è la presentazione pubblica delle finalità del
-      progetto "Humus", nato nel 2019 da un’idea dell’”Associazione di
-      Volontariato Pacha Mama ONLUS”.
-
+       Regolamento Radice è la presentazione pubblica delle finalità del progetto "Humus", nato nel 2019 da un’idea dell’”Associazione di Volontariato Pacha Mama ONLUS”.
 
       ***
 
