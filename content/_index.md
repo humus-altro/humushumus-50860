@@ -319,7 +319,7 @@ sections:
       resto dell’ambiente, allora magari è più facile che trovi fiducia per
       immaginare una società globale che cerca un equilibrio nelle radici che la
       natura dell’uomo ha intrecciato su quella del pianeta.  </mark>
-  - title: lorem-ipsum
+  - title: ''
     section_id: ''
     content: ''
     type: section_content
