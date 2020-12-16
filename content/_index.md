@@ -3,12 +3,7 @@ title: Home
 sections:
   - title: ''
     section_id: ''
-    content: |-
-
-
-      ***
-
-      ## Scendi in profondità con gli ipertesti
+    content: '## Scendi in profondità con gli ipertesti'
     type: section_content
     image: images/pleasant-yam.png
   - title: Text
