@@ -5,7 +5,7 @@ sections:
     section_id: ''
     content: ''
     type: section_content
-    image: images/pleasant-yam.png
+    image: images/logo-humus.png.png
   - title: Text
     section_id: intro
     type: section_content
