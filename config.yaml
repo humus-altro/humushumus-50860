@@ -27,7 +27,7 @@ params:
         url: 'https://www.facebook.com/humusaltro'
         new_window: true
       - label: Instagram
-        url: 'https://www.instagram.com/'
+        url: 'https://www.instagram.com/humus_altro/'
         new_window: true
       - label: GitHub
         url: 'https://github.com/'
