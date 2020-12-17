@@ -1,5 +1,5 @@
 ---
-title: HUMMM
+title: HUMUS
 sections:
   - title: ''
     section_id: ''
