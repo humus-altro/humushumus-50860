@@ -23,7 +23,7 @@ params:
     links: []
     has_social: true
     social_links:
-      - label: facebook
+      - label: Facebook
         url: 'https://twitter.com/'
         new_window: true
       - label: Instagram
