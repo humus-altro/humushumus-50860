@@ -19,7 +19,7 @@ params:
         new_window: false
         type: action
   footer:
-    content: '&copy; All rights reserved.'
+    content: ''
     links: []
     has_social: true
     social_links:
