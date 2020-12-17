@@ -1,5 +1,5 @@
 ---
-title: Home
+title: HUMUS
 sections:
   - title: ''
     section_id: ''
