@@ -24,7 +24,7 @@ params:
     has_social: true
     social_links:
       - label: Facebook
-        url: 'https://'
+        url: 'https://www.facebook.com/humusaltro'
         new_window: true
       - label: Instagram
         url: 'https://www.instagram.com/'
