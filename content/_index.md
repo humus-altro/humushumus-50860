@@ -3,7 +3,7 @@ title: HUMUS
 sections:
   - title: ''
     section_id: ''
-    content: ' "text-align: center"'
+    content: ''
     type: section_content
     image: images/pleasant-yam.png
   - title: Text
