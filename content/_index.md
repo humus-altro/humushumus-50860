@@ -24,6 +24,7 @@ sections:
 
       - dolor sit amet
     type: section_hero
+    image: images/superb-cabbage.png
 layout: advanced
 excerpt: Regolamento radice
 ---
