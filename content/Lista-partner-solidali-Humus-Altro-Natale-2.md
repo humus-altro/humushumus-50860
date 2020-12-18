@@ -8,15 +8,19 @@ layout: page
 ---
 ##### Agevolando Rimini -
 Organizzazione di volontariato che lavora con e per i “care leaver” ragazzi in uscita da percorsi di accoglienza “fuori famiglia” per promuoverne l’autonomia, il benessere psicofisico e la partecipazione attiva.
+***
 
 ##### Alice In The Bag -
 Giovane artigiana, realizza manufatti e oggetti per bambini a partire dal legno, dal cotone e dalla sua cura. 
+***
 
 ##### ANPI Rimini -
 Associazione Nazionale Partigiani d’Italia, sempre attiva nel difendere i valori della Resistenza e i principi della Costituzione.
+***
 
 ##### Arti in Cantiere -
 Arte e coworking come via di integrazione. Uno spazio nel cuore di Rimini per tessere trame solidali e valorizzare artigianalità ed intercultura.
+***
 
 ##### Azienda Agricola Rizoma -
 Energia e passione per la cura della terra. Rizoma come filosofia di vita! Produzione di olio e ortaggi bio con consegna a domicilio.
