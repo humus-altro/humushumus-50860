@@ -3,7 +3,7 @@ baseURL: /
 params:
   description: ''
   header:
-    title: 'Lista partner solidali altro '
+    title: Lista partner solidali Humus Altro Natale
     has_nav: false
     nav_links:
       - label: Home
