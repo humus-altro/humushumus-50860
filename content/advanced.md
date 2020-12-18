@@ -1,6 +1,6 @@
 ---
 title: ciao
-excerpt: lorem-ipsum
+excerpt: ciaoooone
 sections: []
 layout: advanced
 ---
