@@ -19,7 +19,7 @@ body {
 
 </head>
 
-****Agevolando Rimini**** -
+##### *Agevolando Rimini* -
 Organizzazione di volontariato che lavora con e per i “care leaver” ragazzi in uscita da percorsi di accoglienza “fuori famiglia” per promuoverne l’autonomia, il benessere psicofisico e la partecipazione attiva.
 ***
 
