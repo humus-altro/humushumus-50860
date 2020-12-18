@@ -3,7 +3,12 @@ title: HUMUS
 sections:
   - title: ''
     section_id: ''
-    content: ''
+    content: |-
+      <style>
+      body {
+        background-image: "https://res.cloudinary.com/humus-altro/image/upload/v1608291434/logo-humus.jpg.jpg";
+      }
+      </style>
     type: section_content
     image: images/logo-humus.jpag.jpg
   - title: Text
