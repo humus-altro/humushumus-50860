@@ -23,7 +23,7 @@ body {
 Organizzazione di volontariato che lavora con e per i “care leaver” ragazzi in uscita da percorsi di accoglienza “fuori famiglia” per promuoverne l’autonomia, il benessere psicofisico e la partecipazione attiva.
 ***
 
-##### Alice In The Bag -
+#### Alice In The Bag -
 Giovane artigiana, realizza manufatti e oggetti per bambini a partire dal legno, dal cotone e dalla sua cura. 
 ***
 
