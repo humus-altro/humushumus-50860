@@ -3,7 +3,7 @@ title: HUMUS
 sections:
   - title: ''
     section_id: ''
-    content: ''
+    content: 'ciao a tutti '
     type: section_content
     image: images/logo-humus.jpag.jpg
   - title: Text
