@@ -3,7 +3,7 @@ title: HUMUS
 sections:
   - title: ''
     section_id: ''
-    content: ''
+    content: '## scendi in profondità con gli ipertesti'
     type: section_content
     image: images/logo-humus.jpag.jpg
   - title: Text
