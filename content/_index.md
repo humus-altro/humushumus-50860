@@ -9,9 +9,6 @@ sections:
 
 
       ## scendi in profondità con gli ipertesti
-
-
-      sakjcbsajbckab askjb askjbcajk ckjabcj ka
     type: section_content
     image: images/logo-humus.jpag.jpg
   - title: Text
