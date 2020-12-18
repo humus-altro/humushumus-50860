@@ -27,7 +27,7 @@ Organizzazione di volontariato che lavora con e per i “care leaver” ragazzi 
 Giovane artigiana, realizza manufatti e oggetti per bambini a partire dal legno, dal cotone e dalla sua cura. 
 ***
 
-##### ANPI Rimini -
+### ANPI Rimini -
 Associazione Nazionale Partigiani d’Italia, sempre attiva nel difendere i valori della Resistenza e i principi della Costituzione.
 ***
 
