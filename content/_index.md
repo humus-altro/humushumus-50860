@@ -1,7 +1,7 @@
 ---
 title: HUMUS
 sections:
-  - title: Scendi in profondita con gli ipertesti
+  - title: Scendi in profondit con gli ipertesti
     section_id: lorem-ipsum
     subtitle: '## Clicca il pulsante _altro'
     type: section_hero
