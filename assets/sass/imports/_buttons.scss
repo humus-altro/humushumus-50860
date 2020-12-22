@@ -1,11 +1,16 @@
 a,
 button,
 .text-link {
+    padding: .375rem .75rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    border-color: $humus-white;
     color: inherit;
+    background-color: $humus-white;
     text-decoration: none;
     outline: none;
     box-shadow: none;
-    border: none;
+    cursor: pointer;
 
     &:visited,
     &:focus,
@@ -14,7 +19,7 @@ button,
         text-decoration: none;
         outline: none;
         box-shadow: none;
-        border: none;
+        border: 1px solid transparent;
     }
 
     &:not(.logo):not(.nav-link) {

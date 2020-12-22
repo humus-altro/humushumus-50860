@@ -1,0 +1,21 @@
+<!-- Section -->
+{{ $section := .section }}
+<section id="{{ .section.section_id }}" class="collapsable">
+    {{ if $section.tagline }}
+    <h5 class="tagline"><strong>{{ $section.tagline }}</strong></h5>
+    {{ end }}
+    {{ if $section.title }}
+    <div class="copy">
+        <h4>{{ partial "markdownify-block" $section.title }}</h4>
+    </div>
+    {{ end }}
+    {{ if $section.image }}
+    <img class="inline-image" src="{{ $section.image | relURL }}"/>
+    {{ end }}
+    {{ if $section.content }}
+    <div class="copy collapsable-section-content">
+        {{ partial "markdownify-block" $section.content }}
+    </div>
+    {{ end }}
+    <button onclick="handleAltroButtonClick(this, '{{ $section.section_id }}' )">_ALTRO</button>
+</section>

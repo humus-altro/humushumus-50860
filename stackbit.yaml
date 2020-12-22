@@ -291,7 +291,8 @@ models:
           type: model
           labelField: title
           models:
-            - section_content
+            - section_basic
+            - section_collapsable
             - section_hero
             - section_posts
   page:
@@ -380,12 +381,30 @@ models:
         description: >-
           A unique identifier that can be used when linking to this section.
           Must not contain whitespace.
-  section_content:
+  section_basic:
     type: object
-    label: Content Section
+    label: Basic Content Section
     extends:
       - section
     fields:
+      - type: image
+        name: image
+        label: Image
+        description: The image of the section
+      - type: markdown
+        name: content
+        label: Content
+        description: The text content of the section
+  section_collapsable:
+    type: object
+    label: Collapsable Content Section
+    extends:
+      - section
+    fields:
+      - type: string
+        name: tagline
+        label: Tagline
+        description: The tagline of the header section
       - type: image
         name: image
         label: Image

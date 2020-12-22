@@ -1,6 +1,18 @@
 <!-- Header -->
 <header id="header" class="header container">
-    <a href="{{ "/" | relURL }}" class="logo">{{ .Site.Params.header.title }}</a>
+    {{ if or .Site.Params.header.logo_url }}
+    <img src="{{ .Site.Params.header.logo_url }}" class="logo"/>
+    {{ end }}
+    {{ if or .Site.Params.header.title .Site.Params.header.subtitle }}
+    <div class="title">
+        {{ if .Site.Params.header.title }}
+        <h2>{{ .Site.Params.header.title }}</h2>
+        {{ end }}
+        {{ if .Site.Params.header.subtitle }}
+        <h4>{{ .Site.Params.header.subtitle }}</h4>
+        {{ end }}
+    </div>
+    {{ end }}
     {{ if and .Site.Params.header.nav_links .Site.Params.header.has_nav }}
     <nav>
         {{ range $item := $.Site.Params.header.nav_links }}

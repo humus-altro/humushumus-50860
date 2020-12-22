@@ -1,6 +1,7 @@
 // colors
 $blue: #4285F4;
 $gray: rgba(0, 0, 0, .64);
+$humus-white: #EEE6CF;
 
 // typography
 $light: 300;
@@ -9,11 +10,12 @@ $bold: 500;
 
 // fonts
 $roboto: 'Roboto', sans-serif;
+$montserrat: 'Montserrat';
 
 // sizing
 $micro: 8px;
 $tiny: 16px;
-$small: 24px;
+$small: 22px;
 $medium: 40px;
 $large: 64px;
 $xl: 104px;
@@ -23,3 +25,6 @@ $xxl: 270px;
 $mobile: 480px;
 $tabletMax: 768px;
 $tablet: 768px;
+
+// static content
+$imagesBasePath: '/images/'

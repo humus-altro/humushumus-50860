@@ -4,6 +4,7 @@
         {{ $include_dict := dict "section" $section "Site" $.Site }}
         {{ $component := print $section.type ".html" }}
         {{ partial $component $include_dict }}
+        <hr />
     {{ end }}
 
 {{ end }}

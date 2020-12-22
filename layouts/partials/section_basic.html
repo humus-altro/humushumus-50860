@@ -1,6 +1,11 @@
 <!-- Section -->
 {{ $section := .section }}
 <section id="{{ $section.section_id }}" class="content">
+    {{ if $section.title }}
+    <div class="copy">
+        <h4>{{ $section.title }}</h4>
+    </div>
+    {{ end }}
     {{ if $section.image }}<img class="inline-image" src="{{ $section.image | relURL }}"/>{{ end }}
     {{ if $section.content }}
     <div class="copy">

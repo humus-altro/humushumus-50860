@@ -1,23 +1,15 @@
-title: 'Lista partner solidali Humus Altro Natale #2'
+title: 'Humus'
 baseURL: /
 params:
   description: ''
   header:
-    title: ''
+    title: 'Scendi in profondità con gli ipertesti'
+    subtitle: 'Clicca il pulsante _ALTRO'
+    logo_url: '/images/logo-bianco.png'
     has_nav: false
     nav_links:
       - label: Home
         url: /
-      - label: Generic
-        url: /generic/
-      - label: Elements
-        url: /elements/
-      - label: Ipsum
-        url: /ipsum/
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        new_window: false
-        type: action
   footer:
     content: ''
     links: []
