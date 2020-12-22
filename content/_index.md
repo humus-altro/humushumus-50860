@@ -3,7 +3,7 @@ title: HUMUS
 sections:
   - title: Scendi in profondità con gli ipertesti
     section_id: lorem-ipsum
-    subtitle: '## Clicca il pulsante _altro'
+    subtitle: '## <span style="color:#EEE6CF">Clicca il pulsante _altro</span>'
     type: section_hero
   - title: ''
     section_id: ''
