@@ -1,5 +1,5 @@
 ---
-title: Iniziative H
+title: Iniziative Humus nel tempo
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 layout: page
