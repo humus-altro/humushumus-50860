@@ -4,9 +4,6 @@ subtitle: link iniziative
 excerpt: lorem-ipsum
 layout: page
 ---
-#### ALTRO NATALE 2018
-***
-
 #### RIMINI FOR SYRIA
 ***
 
