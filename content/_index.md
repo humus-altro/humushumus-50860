@@ -5,13 +5,13 @@ sections:
     section_id: introduction
     content: >-
       Regolamento Radice è la presentazione pubblica delle finalità del progetto
-      Humus, nato nel 2019 da un’idea dell’ Associazione di Volontariato Pacha
+      HUMUS, nato nel 2019 da un’idea dell’ Associazione di Volontariato Pacha
       Mama ONLUS.
   - type: section_basic
     section_id: cos-è-humus
     title: 'Risposta breve a un’identità complessa: COS’È HUMUS?'
     content: >-
-      “Humus” è il network delle persone che si sentono rappresentate da questo
+      "HUMUS” è il network delle persone che si sentono rappresentate da questo
       nome. Humus è nell’assemblea dei soci dell’Associazione Pacha Mama.
       Germoglio da Humus nasce grazie all’ impegno dei volontari disponibili a
       ciclo trimestrale.
@@ -22,14 +22,14 @@ sections:
       Gioca a sperimantare i linguaggi della cultura. Avvicina le persone alla
       consapevolezza della loro natura: quella solidale. Vicini in un’esperienza
       originale non possiamo piú negare di avere qualcosa in comune. ED È PER
-      QUESTO CHE Humus C’È nelle iniziative che hanno il prefisso “altro-” (hai
-      presente Humus Altro Natale, #2altrofestival?)
+      QUESTO CHE HUMUS C’È nelle iniziative che hanno il prefisso “altro-” (hai
+      presente HUMUS Altro Natale#2?)
   - type: section_collapsable
     section_id: il-nome
     tagline: 'Leggi le parti bianche, trova facilmente la parte che ti interessa'
     title: 'Un progetto col cognome: HUMUS_ALTRO'
     content: >-
-      Al di sopra del nome c’è la famiglia, che per Humus è “Altro”: l’Altro con
+      Al di sopra del nome c’è la famiglia, che per HUMUS è “Altro”: l’Altro con
       la maiuscola nel rispetto di chiunque Altro.
   - type: section_collapsable
     section_id: individuo-socio
@@ -39,7 +39,7 @@ sections:
     title: UN INDIVIDUO = UN SOCIO
     content: >-
       Qualsiasi nuovo “Altro” individuo può scegliere di associarsi passando ad
-      Humus. Partecipa alle iniziative chi diventa socio dell’Associazione Pacha
+      HUMUS. Partecipa alle iniziative chi diventa socio dell’Associazione Pacha
       Mama e sottoscrive una tessera valida da settembre all’agosto seguente. La
       tessera ha un costo. Presentando la tessera valida col proprio nome si
       viene riconosciuti soci. Nessuna iniziativa prevede il pagamento di un
@@ -49,20 +49,20 @@ sections:
     tagline: Per chi cerca spazio. Per chi ha bisogno di tempo. Per chi viene e va.
     title: Trattamento equo e non misurabile della PRESENZA
     content: >-
-      Da Humus l’adesione è più importante del contributo: se ogni evento
+      Da HUMUS l’adesione è più importante del contributo: se ogni evento
       prevedesse un costo d’ingresso fisso ci sarebbero più soldi in cassa e
       meno nomi nel registro. Più sicurezza economica ma meno ricchezza sociale.
-      Chi appoggia Humus nutre Humus. Eque e non soppesabili sono le presenze.
+      Chi appoggia HUMUS nutre HUMUS. Eque e non soppesabili sono le presenze.
       Chi trascorre una sola ora e chi viene alle iniziative tutto l’anno. Chi
-      pensa a Humus ma non può presentarsi. Chi si sente Humus ma ha altri
-      impegni. Chi su Humus mette tutto. Nessun modo personale di attribuire
+      pensa a HUMUS ma non può presentarsi. Chi si sente HUMUS ma ha altri
+      impegni. Chi su HUMUS mette tutto. Nessun modo personale di attribuire
       significato è escluso. Qui, come la più autentica delle esperienze, quello
       che succede non può essere misurato. Puoi fidarti di qualcosa che somiglia
-      all’ Humus, che nasce dal profondo più che dal basso. Saprai che ogni
+      all’ HUMUS, che nasce dal profondo più che dal basso. Saprai che ogni
       risorsa disponibile viene investita nella ricerca verso nuovi modi di
       raccontare i confini meravigliosamente frastagliati della realtà in cui
       siamo immersi. Sono intenzioni queste che non saranno mai dimenticate da
-      Humus e che troveranno nell’ “Altro” nuovo eco.
+      HUMUS e che troveranno nell’ “Altro” nuovo eco.
   - type: section_collapsable
     section_id: assemblea-volontari
     tagline: >-
@@ -73,12 +73,12 @@ sections:
 
       ASSEMBLEA GLOBALE E VOLONTARI OPERATIVI
     content: >-
-      La proposta Humus nasce dall’Assemblea Globale che si incontra per
+      La proposta HUMUS nasce dall’Assemblea Globale che si incontra per
       esprimere il suo voto. Ogni tre mesi il Consiglio Direttivo
       dell’associazione convoca l’Assemblea Globale per rinnovare la motivazione
       di tutti i soci alla semina del nuovo ciclo di programmazione. Con
       regolarità miete e pianta. Solo chi sceglie di impegnarsi durante un ciclo
-      di tre mesi è volontario in Humus e a nessuno può essere richiesta
+      di tre mesi è volontario in HUMUS e a nessuno può essere richiesta
       preventivamente una continuità di durata maggiore. Un volontario sa
       individuare l’area d’interesse nella quale crescere e fare crescere, dove
       le attitudini, le potenzialità, le aspirazioni, da nutrimento diventano
@@ -86,7 +86,7 @@ sections:
       cura: tre mesi, una sera a settimana, portando del lavoro a casa.
       Coltivano intese i volontari che collaborano all’interno di un Gruppo
       Operativo, dove seguono con efficacia settoriale la crescita delle
-      iniziative che da Humus nascono in quel trimestre. Cinque rappresentanti
+      iniziative che da HUMUS nascono in quel trimestre. Cinque rappresentanti
       per cinque Gruppi Operativi: Comunicazione, Culturale, Sociale, Tecnico,
       Logistico. I rappresentanti intrecciano sinergicamente le competenze di
       ciascun gruppo ad Altro Consiglio, dove le iniziative di un trimestre sono
@@ -102,7 +102,7 @@ sections:
       associativa convocando ogni tre mesi l’Assemblea Globale, moderando
       l’incontro con tutti i soci nei tempi e nelle modalità affinchè siano
       abbattute le barriere tra un singolo socio e la sua possibilità di poter
-      esprimere un cambiamento della forma fluida di Humus, modificando questo
+      esprimere un cambiamento della forma fluida di HUMUS, modificando questo
       Regolamento Radice. L’Assemblea Globale si confronta sulle attività del
       ciclo precedente, formula le proposte del ciclo successivo e approva i
       Gruppi Operativi nella quale si sono liberamente inseriti gli associati
@@ -119,11 +119,11 @@ sections:
       da condividere. Per entrare in rete alla pari.
     title: PARTNER SOLIDALI
     content: >-
-      Humus vive in una realtà complessa e ricca di soggetti “altri” con cui
+      HUMUS vive in una realtà complessa e ricca di soggetti “altri” con cui
       dialogare, lavorare e camminare verso un orizzonte comune, mantenendo una
       propria unicità. Sono chiamati partner solidali, collettivi o i singoli,
-      che riconoscono in Humus lo spazio dove potersi esprimere e che
-      collaborano alle iniziative di Humus e le arricchiscono della loro
+      che riconoscono in HUMUS lo spazio dove potersi esprimere e che
+      collaborano alle iniziative di HUMUS e le arricchiscono della loro
       esperienza.
   - type: section_collapsable
     section_id: partner-economici
@@ -135,7 +135,7 @@ sections:
     content: >-
       Il progetto rientra delle sue spese principalmente attraverso le quote
       associative. Anche attraverso i finanziamenti pubblici e quelli privati,
-      Humus trova sostegno per le sue iniziative. Costruire costa e non tutto
+      HUMUS trova sostegno per le sue iniziative. Costruire costa e non tutto
       può essere pagato attraverso il lavoro volontario o lo scambio. Se i
       materiali di recupero, il lavoro volontario, i doni sono risorse che non
       prevedono voci di spesa, i prodotti etici e sostenibili, il lavoro di
@@ -144,7 +144,7 @@ sections:
       generale tutti quei servizi e prodotti che non si riescono a procurare in
       maniera diversa se non acquistandoli sul mercato, diventano voci di spesa.
       Gli artisti e i professionisti nel campo sociale o della cultura
-      arricchiscono il terreno che Humus abita e coltiva; per questo su di loro
+      arricchiscono il terreno che HUMUS abita e coltiva; per questo su di loro
       l’associazione investe un valore economico espresso chiaramente nel
       bilancio trimestrale.
   - type: section_collapsable
@@ -152,7 +152,7 @@ sections:
     tagline: Per i pragmatici
     title: MISSIONE
     content: >-
-      Il germoglio è la missione. In pratica Humus organizza iniziative in modo
+      Il germoglio è la missione. In pratica HUMUS organizza iniziative in modo
       sostenibile. Dal rispetto dell’ambiente a quello per il lavoro umano, le
       strategie e pratiche di cui si avvale sono per il cittadino un punto di
       riferimento concreto e fattibile: usa prodotti della filiera del commercio
@@ -163,14 +163,14 @@ sections:
       persone; comunica messaggi positivi argomentando dettagliatamente con
       parole e fatti le alte possibilità di perseguire obiettivi comuni grazie
       alla partecipazione cosciente della cittadinanza alla vita pubblica. Se
-      uno ad un evento Humus trova una parte di tutto questo, il progetto si è
+      uno ad un evento HUMUS trova una parte di tutto questo, il progetto si è
       avvicinato alla sua missione sul campo.
   - type: section_collapsable
     section_id: visione
     tagline: Per i sognatori
     title: VISIONE
     content: >-
-      Le radici sono la visione. Se uno vede in Humus che è possibile un posto
+      Le radici sono la visione. Se uno vede in HUMUS che è possibile un posto
       in cui le scelte sono prese con consapevolezza delle profonde implicazioni
       con il resto dell’ambiente, allora magari è più facile che trovi fiducia
       per immaginare una società globale che cerca un equilibrio nelle radici
