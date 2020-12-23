@@ -1,5 +1,5 @@
 ---
-title: 'Iniziative '
+title: Iniziative H
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 layout: page
