@@ -73,12 +73,12 @@ sections:
 
       ASSEMBLEA GLOBALE E VOLONTARI OPERATIVI
     content: >-
-      La proposta Humus nasce dall’Assemblea Globale che si incontra per
+      La proposta HUMUS nasce dall’Assemblea Globale che si incontra per
       esprimere il suo voto. Ogni tre mesi il Consiglio Direttivo
       dell’associazione convoca l’Assemblea Globale per rinnovare la motivazione
       di tutti i soci alla semina del nuovo ciclo di programmazione. Con
       regolarità miete e pianta. Solo chi sceglie di impegnarsi durante un ciclo
-      di tre mesi è volontario in Humus e a nessuno può essere richiesta
+      di tre mesi è volontario in HUMUS e a nessuno può essere richiesta
       preventivamente una continuità di durata maggiore. Un volontario sa
       individuare l’area d’interesse nella quale crescere e fare crescere, dove
       le attitudini, le potenzialità, le aspirazioni, da nutrimento diventano
@@ -86,7 +86,7 @@ sections:
       cura: tre mesi, una sera a settimana, portando del lavoro a casa.
       Coltivano intese i volontari che collaborano all’interno di un Gruppo
       Operativo, dove seguono con efficacia settoriale la crescita delle
-      iniziative che da Humus nascono in quel trimestre. Cinque rappresentanti
+      iniziative che da HUMUS nascono in quel trimestre. Cinque rappresentanti
       per cinque Gruppi Operativi: Comunicazione, Culturale, Sociale, Tecnico,
       Logistico. I rappresentanti intrecciano sinergicamente le competenze di
       ciascun gruppo ad Altro Consiglio, dove le iniziative di un trimestre sono
@@ -102,7 +102,7 @@ sections:
       associativa convocando ogni tre mesi l’Assemblea Globale, moderando
       l’incontro con tutti i soci nei tempi e nelle modalità affinchè siano
       abbattute le barriere tra un singolo socio e la sua possibilità di poter
-      esprimere un cambiamento della forma fluida di Humus, modificando questo
+      esprimere un cambiamento della forma fluida di HUMUS, modificando questo
       Regolamento Radice. L’Assemblea Globale si confronta sulle attività del
       ciclo precedente, formula le proposte del ciclo successivo e approva i
       Gruppi Operativi nella quale si sono liberamente inseriti gli associati
