@@ -119,11 +119,11 @@ sections:
       da condividere. Per entrare in rete alla pari.
     title: PARTNER SOLIDALI
     content: >-
-      Humus vive in una realtà complessa e ricca di soggetti “altri” con cui
+      HUMUS vive in una realtà complessa e ricca di soggetti “altri” con cui
       dialogare, lavorare e camminare verso un orizzonte comune, mantenendo una
       propria unicità. Sono chiamati partner solidali, collettivi o i singoli,
-      che riconoscono in Humus lo spazio dove potersi esprimere e che
-      collaborano alle iniziative di Humus e le arricchiscono della loro
+      che riconoscono in HUMUS lo spazio dove potersi esprimere e che
+      collaborano alle iniziative di HUMUS e le arricchiscono della loro
       esperienza.
   - type: section_collapsable
     section_id: partner-economici
