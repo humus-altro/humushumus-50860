@@ -49,20 +49,20 @@ sections:
     tagline: Per chi cerca spazio. Per chi ha bisogno di tempo. Per chi viene e va.
     title: Trattamento equo e non misurabile della PRESENZA
     content: >-
-      Da Humus l’adesione è più importante del contributo: se ogni evento
+      Da HUMUS l’adesione è più importante del contributo: se ogni evento
       prevedesse un costo d’ingresso fisso ci sarebbero più soldi in cassa e
       meno nomi nel registro. Più sicurezza economica ma meno ricchezza sociale.
-      Chi appoggia Humus nutre Humus. Eque e non soppesabili sono le presenze.
+      Chi appoggia HUMUS nutre HUMUS. Eque e non soppesabili sono le presenze.
       Chi trascorre una sola ora e chi viene alle iniziative tutto l’anno. Chi
-      pensa a Humus ma non può presentarsi. Chi si sente Humus ma ha altri
-      impegni. Chi su Humus mette tutto. Nessun modo personale di attribuire
+      pensa a HUMUS ma non può presentarsi. Chi si sente HUMUS ma ha altri
+      impegni. Chi su HUMUS mette tutto. Nessun modo personale di attribuire
       significato è escluso. Qui, come la più autentica delle esperienze, quello
       che succede non può essere misurato. Puoi fidarti di qualcosa che somiglia
-      all’ Humus, che nasce dal profondo più che dal basso. Saprai che ogni
+      all’ HUMUS, che nasce dal profondo più che dal basso. Saprai che ogni
       risorsa disponibile viene investita nella ricerca verso nuovi modi di
       raccontare i confini meravigliosamente frastagliati della realtà in cui
       siamo immersi. Sono intenzioni queste che non saranno mai dimenticate da
-      Humus e che troveranno nell’ “Altro” nuovo eco.
+      HUMUS e che troveranno nell’ “Altro” nuovo eco.
   - type: section_collapsable
     section_id: assemblea-volontari
     tagline: >-
