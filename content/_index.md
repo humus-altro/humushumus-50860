@@ -152,7 +152,7 @@ sections:
     tagline: Per i pragmatici
     title: MISSIONE
     content: >-
-      Il germoglio è la missione. In pratica Humus organizza iniziative in modo
+      Il germoglio è la missione. In pratica HUMUS organizza iniziative in modo
       sostenibile. Dal rispetto dell’ambiente a quello per il lavoro umano, le
       strategie e pratiche di cui si avvale sono per il cittadino un punto di
       riferimento concreto e fattibile: usa prodotti della filiera del commercio
@@ -163,7 +163,7 @@ sections:
       persone; comunica messaggi positivi argomentando dettagliatamente con
       parole e fatti le alte possibilità di perseguire obiettivi comuni grazie
       alla partecipazione cosciente della cittadinanza alla vita pubblica. Se
-      uno ad un evento Humus trova una parte di tutto questo, il progetto si è
+      uno ad un evento HUMUS trova una parte di tutto questo, il progetto si è
       avvicinato alla sua missione sul campo.
   - type: section_collapsable
     section_id: visione
