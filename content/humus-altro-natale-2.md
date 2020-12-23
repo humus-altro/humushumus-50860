@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-subtitle: lorem-ipsum
+subtitle: ''
 excerpt: lorem-ipsum
 layout: page
 ---
