@@ -1,6 +1,6 @@
 ---
 title: Iniziative Humus nel tempo
-subtitle: lorem-ipsum
+subtitle: ''
 excerpt: lorem-ipsum
 layout: page
 ---
