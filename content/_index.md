@@ -22,7 +22,7 @@ sections:
       Gioca a sperimantare i linguaggi della cultura. Avvicina le persone alla
       consapevolezza della loro natura: quella solidale. Vicini in un’esperienza
       originale non possiamo piú negare di avere qualcosa in comune. ED È PER
-      QUESTO CHE Humus C’È nelle iniziative che hanno il prefisso “altro-” (hai
+      QUESTO CHE HUMUS C’È nelle iniziative che hanno il prefisso “altro-” (hai
       presente Humus Altro Natale#2?)
   - type: section_collapsable
     section_id: il-nome
