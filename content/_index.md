@@ -20,7 +20,7 @@ sections:
     section_id: cosa-fa-humus
     title: 'Sì ma: COSA FA HUMUS?'
     content: >-
-      Gioca a sperimantare i linguaggi della cultura. Avvicina le persone alla
+      Gioca a sperimentare i linguaggi della cultura. Avvicina le persone alla
       consapevolezza della loro natura: quella solidale. Vicini in un’esperienza
       originale non possiamo piú negare di avere qualcosa in comune. ED È PER
       QUESTO CHE HUMUS C’È nelle iniziative che hanno il prefisso “altro-” (hai
