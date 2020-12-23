@@ -135,7 +135,7 @@ sections:
     content: >-
       Il progetto rientra delle sue spese principalmente attraverso le quote
       associative. Anche attraverso i finanziamenti pubblici e quelli privati,
-      Humus trova sostegno per le sue iniziative. Costruire costa e non tutto
+      HUMUS trova sostegno per le sue iniziative. Costruire costa e non tutto
       può essere pagato attraverso il lavoro volontario o lo scambio. Se i
       materiali di recupero, il lavoro volontario, i doni sono risorse che non
       prevedono voci di spesa, i prodotti etici e sostenibili, il lavoro di
@@ -144,7 +144,7 @@ sections:
       generale tutti quei servizi e prodotti che non si riescono a procurare in
       maniera diversa se non acquistandoli sul mercato, diventano voci di spesa.
       Gli artisti e i professionisti nel campo sociale o della cultura
-      arricchiscono il terreno che Humus abita e coltiva; per questo su di loro
+      arricchiscono il terreno che HUMUS abita e coltiva; per questo su di loro
       l’associazione investe un valore economico espresso chiaramente nel
       bilancio trimestrale.
   - type: section_collapsable
