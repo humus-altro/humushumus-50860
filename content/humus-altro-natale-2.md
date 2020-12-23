@@ -4,7 +4,7 @@ subtitle: ''
 excerpt: lorem-ipsum
 layout: page
 ---
-### lista partner solidali humus altro natale #2
+### <a href="https://humusaltro.com/lista-partner-solidali-humus-altro-natale-2/">lista partner solidali humus altro natale #2</a>
 ***
 
-### un approfondimento infrastrutturale
+### <a href="https://humusaltro.com/un-approfondimento-infrastrutturale/">un approfondimento infrastrutturale</a>
