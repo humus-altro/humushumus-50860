@@ -39,7 +39,7 @@ sections:
     title: UN INDIVIDUO = UN SOCIO
     content: >-
       Qualsiasi nuovo “Altro” individuo può scegliere di associarsi passando ad
-      Humus. Partecipa alle iniziative chi diventa socio dell’Associazione Pacha
+      HUMUS. Partecipa alle iniziative chi diventa socio dell’Associazione Pacha
       Mama e sottoscrive una tessera valida da settembre all’agosto seguente. La
       tessera ha un costo. Presentando la tessera valida col proprio nome si
       viene riconosciuti soci. Nessuna iniziativa prevede il pagamento di un
