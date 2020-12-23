@@ -1,12 +1,10 @@
 ---
-title: lorem-ipsum
-subtitle: lorem-ipsum
+title: ''
+subtitle: ''
 excerpt: lorem-ipsum
 layout: page
 ---
-## Lorem ipsum
+### <a href="https://humusaltro.com/lista-partner-solidali-humus-altro-natale-2/">lista partner solidali humus altro natale #2</a>
+***
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+### <a href="https://humusaltro.com/un-approfondimento-infrastrutturale/">un approfondimento infrastrutturale</a>
