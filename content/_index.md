@@ -5,7 +5,7 @@ sections:
     section_id: introduction
     content: >-
       Regolamento Radice è la presentazione pubblica delle finalità del progetto
-      Humus, nato nel 2019 da un’idea dell’ Associazione di Volontariato Pacha
+      HUMUS, nato nel 2019 da un’idea dell’ Associazione di Volontariato Pacha
       Mama ONLUS.
   - type: section_basic
     section_id: cos-è-humus
