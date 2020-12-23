@@ -23,7 +23,7 @@ sections:
       consapevolezza della loro natura: quella solidale. Vicini in un’esperienza
       originale non possiamo piú negare di avere qualcosa in comune. ED È PER
       QUESTO CHE HUMUS C’È nelle iniziative che hanno il prefisso “altro-” (hai
-      presente Humus Altro Natale#2?)
+      presente HUMUS Altro Natale#2?)
   - type: section_collapsable
     section_id: il-nome
     tagline: 'Leggi le parti bianche, trova facilmente la parte che ti interessa'
