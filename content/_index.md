@@ -29,7 +29,7 @@ sections:
     tagline: 'Leggi le parti bianche, trova facilmente la parte che ti interessa'
     title: 'Un progetto col cognome: HUMUS_ALTRO'
     content: >-
-      Al di sopra del nome c’è la famiglia, che per Humus è “Altro”: l’Altro con
+      Al di sopra del nome c’è la famiglia, che per HUMUS è “Altro”: l’Altro con
       la maiuscola nel rispetto di chiunque Altro.
   - type: section_collapsable
     section_id: individuo-socio
