@@ -2,10 +2,10 @@
 <!-- Main -->
 <section class="page">
     <header class="hero">
-        <div class="copy">
-            <h1>{{ .Title }}</h1>
+        <div>
+            <h2>{{ .Title }}</h2>
             {{ if .Params.subtitle }}
-            <h3>{{ $.Params.subtitle | safeHTML }}</h3>
+            <h4>{{ $.Params.subtitle | safeHTML }}</h4>
             {{ end }}
         </div>
     </header>

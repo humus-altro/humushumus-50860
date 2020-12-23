@@ -1,5 +1,6 @@
 ---
-title: HUMUS
+title: 'Scendi in profondità con gli ipertesti'
+subtitle: 'Clicca il pulsante _ALTRO'
 sections:
   - type: section_basic
     section_id: introduction
@@ -23,8 +24,7 @@ sections:
       consapevolezza della loro natura: quella solidale. Vicini in un’esperienza
       originale non possiamo piú negare di avere qualcosa in comune. ED È PER
       QUESTO CHE HUMUS C’È nelle iniziative che hanno il prefisso “altro-” (hai
-      presente <a href="https://humusaltro.com/humus-altro-natale-2/">HUMUS
-      Altro Natale#2?</a>)
+      presente [Humus Altro Natale #2](/lista-partner-solidali-humus-altro-natale-2/)?)
   - type: section_collapsable
     section_id: il-nome
     tagline: 'Leggi le parti bianche, trova facilmente la parte che ti interessa'

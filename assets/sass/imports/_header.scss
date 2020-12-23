@@ -6,8 +6,8 @@
     justify-content: space-between;
     align-items: center;
     border-bottom: 2px solid rgba(0, 0, 0, .05);
-    margin-top: 1rem;
-    margin-bottom: 4rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
 
     .logo {
         display: inline-block;
@@ -42,6 +42,7 @@
     nav {
         display: flex;
         align-items: stretch;
+        margin: 1rem 0;
 
         @media screen and (max-width: $tablet) {
             width: 100%;
@@ -59,7 +60,7 @@
         font-weight: $bold;
         line-height: 1.5rem;
         text-align: center;
-        padding: 1rem;
+        padding: 0 1rem;
 
         &.active:after {
             content: ' ';

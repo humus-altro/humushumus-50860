@@ -1,5 +1,12 @@
 {{ define "content" }}
-
+    <header class="hero">
+        <div>
+            <h2>{{ .Title }}</h2>
+            {{ if .Params.subtitle }}
+            <h4>{{ $.Params.subtitle | safeHTML }}</h4>
+            {{ end }}
+        </div>
+    </header>
     {{ range $section := .Params.sections }}
         {{ $include_dict := dict "section" $section "Site" $.Site }}
         {{ $component := print $section.type ".html" }}

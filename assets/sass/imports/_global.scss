@@ -11,7 +11,8 @@ html {
 
 body {
     min-height: 100%;
-    background-image: url($imagesBasePath + "background-humus.jpg");
+    background-image: url($imagesBasePath + "background-humus.jpg"), url($imagesBasePath + "background-humus-pattern.jpg");
+    background-repeat: no-repeat, repeat;
 }
 
 html,

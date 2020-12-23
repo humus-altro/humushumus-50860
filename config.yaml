@@ -3,8 +3,8 @@ baseURL: /
 params:
   description: ''
   header:
-    title: 'Scendi in profondità con gli ipertesti'
-    subtitle: 'Clicca il pulsante _ALTRO'
+    title:
+    subtitle:
     logo_url: '/images/logo-bianco.png'
     has_nav: false
     nav_links:

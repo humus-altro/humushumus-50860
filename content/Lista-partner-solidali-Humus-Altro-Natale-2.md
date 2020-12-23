@@ -3,22 +3,9 @@ title: 'Lista partner solidali Humus Altro Natale #2'
 subtitle: >-
   I NOSTRI PARTNER SOLIDALI PER QUESTA INIZIATIVA. QUELLI CHE SONO VOLUTI BENE
   AD ALTRO NATALE #2 HANNO SCOMMESSO AL BUIO SU:
-excerpt: lorem-ipsum
+excerpt: Lista partner Humus
 layout: page
 ---
-<html>
-<head>
-
-<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
-
-<style>
-body {
-    font-family: 'Montserrat';font-size: 22px;
-}
-</style>
-
-</head>
-
 #### Agevolando Rimini -
 Organizzazione di volontariato che lavora con e per i “care leaver” ragazzi in uscita da percorsi di accoglienza “fuori famiglia” per promuoverne l’autonomia, il benessere psicofisico e la partecipazione attiva.
 ***

@@ -3,6 +3,15 @@
     {{ if or .Site.Params.header.logo_url }}
     <a href="/" class="logo"><img src="{{ .Site.Params.header.logo_url }}" /></a>
     {{ end }}
+    {{ if and .Site.Params.header.nav_links .Site.Params.header.has_nav }}
+    <nav>
+        {{ range $item := $.Site.Params.header.nav_links }}
+            {{ $pageUrl := trim $.URL "/" }}
+            {{ $itemUrl := trim $item.url "/" }}
+            <a class="nav-link{{ if eq $pageUrl $itemUrl }} active{{ end }}" href="{{ if strings.HasPrefix $item.url '#' }}{{ $item.url }}{{ else }}{{ $item.url | relURL }}{{ end }}"{{ if $item.new_window }} target="_blank" rel="noopener"{{ end }}>{{ $item.label }}</a>
+        {{ end }}
+    </nav>
+    {{ end }}
     {{ if or .Site.Params.header.title .Site.Params.header.subtitle }}
     <div class="title">
         {{ if .Site.Params.header.title }}
@@ -12,14 +21,5 @@
         <h4>{{ .Site.Params.header.subtitle }}</h4>
         {{ end }}
     </div>
-    {{ end }}
-    {{ if and .Site.Params.header.nav_links .Site.Params.header.has_nav }}
-    <nav>
-        {{ range $item := $.Site.Params.header.nav_links }}
-            {{ $pageUrl := trim $.URL "/" }}
-            {{ $itemUrl := trim $item.url "/" }}
-            <a class="nav-link{{ if eq $pageUrl $itemUrl }} active{{ end }}" href="{{ if strings.HasPrefix $item.url "#" }}{{ $item.url }}{{ else }}{{ $item.url | relURL }}{{ end }}"{{ if $item.new_window }} target="_blank" rel="noopener"{{ end }}>{{ $item.label }}</a>
-        {{ end }}
-    </nav>
     {{ end }}
 </header>
