@@ -4,9 +4,19 @@ subtitle: link iniziative
 excerpt: lorem-ipsum
 layout: page
 ---
-## Lorem ipsum
+## ALTRO NATALE 2018
+***
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## RIMINI FOR SYRIA
+***
 
-- Lorem ipsum
-- dolor sit amet
+## HUMUS ALTRO FESTIVAL #1
+***
+
+## HUMUS ALTRO NATALE #1
+***
+
+## HUMUS  ALTRO FESTIVAL #2
+***
+
+## HUMUS ALTRO NATALE #2
